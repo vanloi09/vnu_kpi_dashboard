@@ -1,0 +1,10 @@
+﻿id,type,unit,kpi,factor,desc,months,offset,units,uni,dormant_staff_ids
+S1,lagging_unit,IU-BME,"('A', 'III')",0.25,Faculty of Biomedical Engineering produces only ~25% of its normal research output.,,,,,
+S2,star_unit,IU-IT,"('A', 'III')",2.0,Faculty of IT is a top contributor to research outputs (2x normal).,,,,,
+S3,sudden_drop,IU-EEE,"('A', 'III', '1')",0.0,Faculty of EEE records zero international publications in June-July.,"(6, 7)",,,,
+S4,spike,IU-BT,"('A', 'III', '1', '2')",6.0,Faculty of Biotechnology has a spike of co-authored papers in August.,"(8,)",,,,
+S5,level_offset,IU-BME,"('A', 'I', '2')",,Professor/Associate Professor ratio at Faculty of BME is 12 points below IU average.,,-12.0,,,
+S6,level_offset,IU-FL,"('C', '2')",,Share of PhD faculty at Faculty of Foreign Languages is 15 points below IU average.,,-15.0,,,
+S7,dormant_staff,,"('A', 'III')",0.02,One lecturer in each of these units has almost no research output.,,,"('IU-BA', 'IU-FL', 'IU-CEE', 'IU-PHY')",,"IU-BA-P07, IU-CEE-P08, IU-FL-P03, IU-PHY-P07"
+S8,university_factor,,,0.45,An Giang University completes only ~45% of what its peers do on cumulative KPIs.,,,,AGU,
+S9,university_factor,,,1.4,University of Science over-performs (~140%) on cumulative KPIs.,,,,HCMUS,

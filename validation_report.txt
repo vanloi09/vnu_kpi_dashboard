@@ -1,0 +1,15 @@
+Seed=2026  closed_month=9  rows(monthly)=116,568  rows(quarterly)=38,856
+KPIs in dim_kpi=74  orgs=840  KPIs with data=71
+
+[PASS] Cumulative: children sum to parent in all 2229 splits
+[PASS] Level/step: weighted mean of units matches parent (max residual 0.084) in 294 splits
+[PASS] Cumulative series never decrease (violations: 0)
+[PASS] IU values equal the Excel file for every observed month (violations: 0)
+[PASS] No negative values (found: 0)
+
+Rows by level:  PERSON=71,469, UNIT=39,987, UNIVERSITY=4,473, VNU=639
+Rows by source: synthetic=115,290, derived=639, excel_accumulated=414, excel_monthly=225
+Status at last closed month (VNU/UNIVERSITY/UNIT rows): green=2052, red=2001, n/a=627, amber=331
+
+NOTE: only IU-level rows with source 'excel_monthly' / 'excel_accumulated' come from the provided file;
+      all other rows are synthetic (is_synthetic = True) and must be labelled as such in the dashboard.

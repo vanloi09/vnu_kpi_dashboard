@@ -1,0 +1,841 @@
+﻿org_id,org_name,level,parent_id,uni_id,unit_type
+VNU,VNU-HCM,VNU,,,
+HCMUT,University of Technology,UNIVERSITY,VNU,HCMUT,
+HCMUT-F01,HCMUT Faculty 1,UNIT,HCMUT,HCMUT,faculty
+HCMUT-F01-P01,Staff member 1 (HCMUT Faculty 1),PERSON,HCMUT-F01,HCMUT,faculty
+HCMUT-F01-P02,Staff member 2 (HCMUT Faculty 1),PERSON,HCMUT-F01,HCMUT,faculty
+HCMUT-F01-P03,Staff member 3 (HCMUT Faculty 1),PERSON,HCMUT-F01,HCMUT,faculty
+HCMUT-F01-P04,Staff member 4 (HCMUT Faculty 1),PERSON,HCMUT-F01,HCMUT,faculty
+HCMUT-F01-P05,Staff member 5 (HCMUT Faculty 1),PERSON,HCMUT-F01,HCMUT,faculty
+HCMUT-F01-P06,Staff member 6 (HCMUT Faculty 1),PERSON,HCMUT-F01,HCMUT,faculty
+HCMUT-F01-P07,Staff member 7 (HCMUT Faculty 1),PERSON,HCMUT-F01,HCMUT,faculty
+HCMUT-F01-P08,Staff member 8 (HCMUT Faculty 1),PERSON,HCMUT-F01,HCMUT,faculty
+HCMUT-F01-P09,Staff member 9 (HCMUT Faculty 1),PERSON,HCMUT-F01,HCMUT,faculty
+HCMUT-F02,HCMUT Faculty 2,UNIT,HCMUT,HCMUT,faculty
+HCMUT-F02-P01,Staff member 1 (HCMUT Faculty 2),PERSON,HCMUT-F02,HCMUT,faculty
+HCMUT-F02-P02,Staff member 2 (HCMUT Faculty 2),PERSON,HCMUT-F02,HCMUT,faculty
+HCMUT-F02-P03,Staff member 3 (HCMUT Faculty 2),PERSON,HCMUT-F02,HCMUT,faculty
+HCMUT-F02-P04,Staff member 4 (HCMUT Faculty 2),PERSON,HCMUT-F02,HCMUT,faculty
+HCMUT-F02-P05,Staff member 5 (HCMUT Faculty 2),PERSON,HCMUT-F02,HCMUT,faculty
+HCMUT-F02-P06,Staff member 6 (HCMUT Faculty 2),PERSON,HCMUT-F02,HCMUT,faculty
+HCMUT-F02-P07,Staff member 7 (HCMUT Faculty 2),PERSON,HCMUT-F02,HCMUT,faculty
+HCMUT-F02-P08,Staff member 8 (HCMUT Faculty 2),PERSON,HCMUT-F02,HCMUT,faculty
+HCMUT-F03,HCMUT Faculty 3,UNIT,HCMUT,HCMUT,faculty
+HCMUT-F03-P01,Staff member 1 (HCMUT Faculty 3),PERSON,HCMUT-F03,HCMUT,faculty
+HCMUT-F03-P02,Staff member 2 (HCMUT Faculty 3),PERSON,HCMUT-F03,HCMUT,faculty
+HCMUT-F03-P03,Staff member 3 (HCMUT Faculty 3),PERSON,HCMUT-F03,HCMUT,faculty
+HCMUT-F03-P04,Staff member 4 (HCMUT Faculty 3),PERSON,HCMUT-F03,HCMUT,faculty
+HCMUT-F03-P05,Staff member 5 (HCMUT Faculty 3),PERSON,HCMUT-F03,HCMUT,faculty
+HCMUT-F03-P06,Staff member 6 (HCMUT Faculty 3),PERSON,HCMUT-F03,HCMUT,faculty
+HCMUT-F03-P07,Staff member 7 (HCMUT Faculty 3),PERSON,HCMUT-F03,HCMUT,faculty
+HCMUT-F03-P08,Staff member 8 (HCMUT Faculty 3),PERSON,HCMUT-F03,HCMUT,faculty
+HCMUT-F03-P09,Staff member 9 (HCMUT Faculty 3),PERSON,HCMUT-F03,HCMUT,faculty
+HCMUT-F03-P10,Staff member 10 (HCMUT Faculty 3),PERSON,HCMUT-F03,HCMUT,faculty
+HCMUT-F03-P11,Staff member 11 (HCMUT Faculty 3),PERSON,HCMUT-F03,HCMUT,faculty
+HCMUT-F03-P12,Staff member 12 (HCMUT Faculty 3),PERSON,HCMUT-F03,HCMUT,faculty
+HCMUT-F04,HCMUT Faculty 4,UNIT,HCMUT,HCMUT,faculty
+HCMUT-F04-P01,Staff member 1 (HCMUT Faculty 4),PERSON,HCMUT-F04,HCMUT,faculty
+HCMUT-F04-P02,Staff member 2 (HCMUT Faculty 4),PERSON,HCMUT-F04,HCMUT,faculty
+HCMUT-F04-P03,Staff member 3 (HCMUT Faculty 4),PERSON,HCMUT-F04,HCMUT,faculty
+HCMUT-F04-P04,Staff member 4 (HCMUT Faculty 4),PERSON,HCMUT-F04,HCMUT,faculty
+HCMUT-F04-P05,Staff member 5 (HCMUT Faculty 4),PERSON,HCMUT-F04,HCMUT,faculty
+HCMUT-F04-P06,Staff member 6 (HCMUT Faculty 4),PERSON,HCMUT-F04,HCMUT,faculty
+HCMUT-F04-P07,Staff member 7 (HCMUT Faculty 4),PERSON,HCMUT-F04,HCMUT,faculty
+HCMUT-F04-P08,Staff member 8 (HCMUT Faculty 4),PERSON,HCMUT-F04,HCMUT,faculty
+HCMUT-F04-P09,Staff member 9 (HCMUT Faculty 4),PERSON,HCMUT-F04,HCMUT,faculty
+HCMUT-F04-P10,Staff member 10 (HCMUT Faculty 4),PERSON,HCMUT-F04,HCMUT,faculty
+HCMUT-F05,HCMUT Faculty 5,UNIT,HCMUT,HCMUT,faculty
+HCMUT-F05-P01,Staff member 1 (HCMUT Faculty 5),PERSON,HCMUT-F05,HCMUT,faculty
+HCMUT-F05-P02,Staff member 2 (HCMUT Faculty 5),PERSON,HCMUT-F05,HCMUT,faculty
+HCMUT-F05-P03,Staff member 3 (HCMUT Faculty 5),PERSON,HCMUT-F05,HCMUT,faculty
+HCMUT-F05-P04,Staff member 4 (HCMUT Faculty 5),PERSON,HCMUT-F05,HCMUT,faculty
+HCMUT-F05-P05,Staff member 5 (HCMUT Faculty 5),PERSON,HCMUT-F05,HCMUT,faculty
+HCMUT-F05-P06,Staff member 6 (HCMUT Faculty 5),PERSON,HCMUT-F05,HCMUT,faculty
+HCMUT-F05-P07,Staff member 7 (HCMUT Faculty 5),PERSON,HCMUT-F05,HCMUT,faculty
+HCMUT-F05-P08,Staff member 8 (HCMUT Faculty 5),PERSON,HCMUT-F05,HCMUT,faculty
+HCMUT-F05-P09,Staff member 9 (HCMUT Faculty 5),PERSON,HCMUT-F05,HCMUT,faculty
+HCMUT-F05-P10,Staff member 10 (HCMUT Faculty 5),PERSON,HCMUT-F05,HCMUT,faculty
+HCMUT-F05-P11,Staff member 11 (HCMUT Faculty 5),PERSON,HCMUT-F05,HCMUT,faculty
+HCMUT-F06,HCMUT Faculty 6,UNIT,HCMUT,HCMUT,faculty
+HCMUT-F06-P01,Staff member 1 (HCMUT Faculty 6),PERSON,HCMUT-F06,HCMUT,faculty
+HCMUT-F06-P02,Staff member 2 (HCMUT Faculty 6),PERSON,HCMUT-F06,HCMUT,faculty
+HCMUT-F06-P03,Staff member 3 (HCMUT Faculty 6),PERSON,HCMUT-F06,HCMUT,faculty
+HCMUT-F06-P04,Staff member 4 (HCMUT Faculty 6),PERSON,HCMUT-F06,HCMUT,faculty
+HCMUT-F06-P05,Staff member 5 (HCMUT Faculty 6),PERSON,HCMUT-F06,HCMUT,faculty
+HCMUT-F06-P06,Staff member 6 (HCMUT Faculty 6),PERSON,HCMUT-F06,HCMUT,faculty
+HCMUT-F06-P07,Staff member 7 (HCMUT Faculty 6),PERSON,HCMUT-F06,HCMUT,faculty
+HCMUT-F06-P08,Staff member 8 (HCMUT Faculty 6),PERSON,HCMUT-F06,HCMUT,faculty
+HCMUT-F07,HCMUT Faculty 7,UNIT,HCMUT,HCMUT,faculty
+HCMUT-F07-P01,Staff member 1 (HCMUT Faculty 7),PERSON,HCMUT-F07,HCMUT,faculty
+HCMUT-F07-P02,Staff member 2 (HCMUT Faculty 7),PERSON,HCMUT-F07,HCMUT,faculty
+HCMUT-F07-P03,Staff member 3 (HCMUT Faculty 7),PERSON,HCMUT-F07,HCMUT,faculty
+HCMUT-F07-P04,Staff member 4 (HCMUT Faculty 7),PERSON,HCMUT-F07,HCMUT,faculty
+HCMUT-F07-P05,Staff member 5 (HCMUT Faculty 7),PERSON,HCMUT-F07,HCMUT,faculty
+HCMUT-F07-P06,Staff member 6 (HCMUT Faculty 7),PERSON,HCMUT-F07,HCMUT,faculty
+HCMUT-F07-P07,Staff member 7 (HCMUT Faculty 7),PERSON,HCMUT-F07,HCMUT,faculty
+HCMUT-F07-P08,Staff member 8 (HCMUT Faculty 7),PERSON,HCMUT-F07,HCMUT,faculty
+HCMUT-F07-P09,Staff member 9 (HCMUT Faculty 7),PERSON,HCMUT-F07,HCMUT,faculty
+HCMUT-F07-P10,Staff member 10 (HCMUT Faculty 7),PERSON,HCMUT-F07,HCMUT,faculty
+HCMUT-F08,HCMUT Faculty 8,UNIT,HCMUT,HCMUT,faculty
+HCMUT-F08-P01,Staff member 1 (HCMUT Faculty 8),PERSON,HCMUT-F08,HCMUT,faculty
+HCMUT-F08-P02,Staff member 2 (HCMUT Faculty 8),PERSON,HCMUT-F08,HCMUT,faculty
+HCMUT-F08-P03,Staff member 3 (HCMUT Faculty 8),PERSON,HCMUT-F08,HCMUT,faculty
+HCMUT-F08-P04,Staff member 4 (HCMUT Faculty 8),PERSON,HCMUT-F08,HCMUT,faculty
+HCMUT-F08-P05,Staff member 5 (HCMUT Faculty 8),PERSON,HCMUT-F08,HCMUT,faculty
+HCMUT-F08-P06,Staff member 6 (HCMUT Faculty 8),PERSON,HCMUT-F08,HCMUT,faculty
+HCMUT-F08-P07,Staff member 7 (HCMUT Faculty 8),PERSON,HCMUT-F08,HCMUT,faculty
+HCMUT-F08-P08,Staff member 8 (HCMUT Faculty 8),PERSON,HCMUT-F08,HCMUT,faculty
+HCMUT-F08-P09,Staff member 9 (HCMUT Faculty 8),PERSON,HCMUT-F08,HCMUT,faculty
+HCMUT-F08-P10,Staff member 10 (HCMUT Faculty 8),PERSON,HCMUT-F08,HCMUT,faculty
+HCMUT-F08-P11,Staff member 11 (HCMUT Faculty 8),PERSON,HCMUT-F08,HCMUT,faculty
+HCMUT-F08-P12,Staff member 12 (HCMUT Faculty 8),PERSON,HCMUT-F08,HCMUT,faculty
+HCMUT-F09,HCMUT Faculty 9,UNIT,HCMUT,HCMUT,faculty
+HCMUT-F09-P01,Staff member 1 (HCMUT Faculty 9),PERSON,HCMUT-F09,HCMUT,faculty
+HCMUT-F09-P02,Staff member 2 (HCMUT Faculty 9),PERSON,HCMUT-F09,HCMUT,faculty
+HCMUT-F09-P03,Staff member 3 (HCMUT Faculty 9),PERSON,HCMUT-F09,HCMUT,faculty
+HCMUT-F09-P04,Staff member 4 (HCMUT Faculty 9),PERSON,HCMUT-F09,HCMUT,faculty
+HCMUT-F09-P05,Staff member 5 (HCMUT Faculty 9),PERSON,HCMUT-F09,HCMUT,faculty
+HCMUT-F09-P06,Staff member 6 (HCMUT Faculty 9),PERSON,HCMUT-F09,HCMUT,faculty
+HCMUT-F09-P07,Staff member 7 (HCMUT Faculty 9),PERSON,HCMUT-F09,HCMUT,faculty
+HCMUT-F09-P08,Staff member 8 (HCMUT Faculty 9),PERSON,HCMUT-F09,HCMUT,faculty
+HCMUT-F09-P09,Staff member 9 (HCMUT Faculty 9),PERSON,HCMUT-F09,HCMUT,faculty
+HCMUT-F09-P10,Staff member 10 (HCMUT Faculty 9),PERSON,HCMUT-F09,HCMUT,faculty
+HCMUT-EXT,External Relations Office,UNIT,HCMUT,HCMUT,office
+HCMUT-EXT-P01,Staff member 1 (External Relations Office),PERSON,HCMUT-EXT,HCMUT,office
+HCMUT-EXT-P02,Staff member 2 (External Relations Office),PERSON,HCMUT-EXT,HCMUT,office
+HCMUT-EXT-P03,Staff member 3 (External Relations Office),PERSON,HCMUT-EXT,HCMUT,office
+HCMUT-EXT-P04,Staff member 4 (External Relations Office),PERSON,HCMUT-EXT,HCMUT,office
+HCMUT-EXT-P05,Staff member 5 (External Relations Office),PERSON,HCMUT-EXT,HCMUT,office
+HCMUT-ACA,Academic Affairs Office,UNIT,HCMUT,HCMUT,office
+HCMUT-ACA-P01,Staff member 1 (Academic Affairs Office),PERSON,HCMUT-ACA,HCMUT,office
+HCMUT-ACA-P02,Staff member 2 (Academic Affairs Office),PERSON,HCMUT-ACA,HCMUT,office
+HCMUT-ACA-P03,Staff member 3 (Academic Affairs Office),PERSON,HCMUT-ACA,HCMUT,office
+HCMUT-ACA-P04,Staff member 4 (Academic Affairs Office),PERSON,HCMUT-ACA,HCMUT,office
+HCMUT-ACA-P05,Staff member 5 (Academic Affairs Office),PERSON,HCMUT-ACA,HCMUT,office
+HCMUT-ACA-P06,Staff member 6 (Academic Affairs Office),PERSON,HCMUT-ACA,HCMUT,office
+HCMUT-FIN,Finance Office,UNIT,HCMUT,HCMUT,office
+HCMUT-FIN-P01,Staff member 1 (Finance Office),PERSON,HCMUT-FIN,HCMUT,office
+HCMUT-FIN-P02,Staff member 2 (Finance Office),PERSON,HCMUT-FIN,HCMUT,office
+HCMUT-FIN-P03,Staff member 3 (Finance Office),PERSON,HCMUT-FIN,HCMUT,office
+HCMUT-FIN-P04,Staff member 4 (Finance Office),PERSON,HCMUT-FIN,HCMUT,office
+HCMUT-FIN-P05,Staff member 5 (Finance Office),PERSON,HCMUT-FIN,HCMUT,office
+HCMUS,University of Science,UNIVERSITY,VNU,HCMUS,
+HCMUS-F01,HCMUS Faculty 1,UNIT,HCMUS,HCMUS,faculty
+HCMUS-F01-P01,Staff member 1 (HCMUS Faculty 1),PERSON,HCMUS-F01,HCMUS,faculty
+HCMUS-F01-P02,Staff member 2 (HCMUS Faculty 1),PERSON,HCMUS-F01,HCMUS,faculty
+HCMUS-F01-P03,Staff member 3 (HCMUS Faculty 1),PERSON,HCMUS-F01,HCMUS,faculty
+HCMUS-F01-P04,Staff member 4 (HCMUS Faculty 1),PERSON,HCMUS-F01,HCMUS,faculty
+HCMUS-F01-P05,Staff member 5 (HCMUS Faculty 1),PERSON,HCMUS-F01,HCMUS,faculty
+HCMUS-F01-P06,Staff member 6 (HCMUS Faculty 1),PERSON,HCMUS-F01,HCMUS,faculty
+HCMUS-F01-P07,Staff member 7 (HCMUS Faculty 1),PERSON,HCMUS-F01,HCMUS,faculty
+HCMUS-F01-P08,Staff member 8 (HCMUS Faculty 1),PERSON,HCMUS-F01,HCMUS,faculty
+HCMUS-F01-P09,Staff member 9 (HCMUS Faculty 1),PERSON,HCMUS-F01,HCMUS,faculty
+HCMUS-F01-P10,Staff member 10 (HCMUS Faculty 1),PERSON,HCMUS-F01,HCMUS,faculty
+HCMUS-F01-P11,Staff member 11 (HCMUS Faculty 1),PERSON,HCMUS-F01,HCMUS,faculty
+HCMUS-F01-P12,Staff member 12 (HCMUS Faculty 1),PERSON,HCMUS-F01,HCMUS,faculty
+HCMUS-F01-P13,Staff member 13 (HCMUS Faculty 1),PERSON,HCMUS-F01,HCMUS,faculty
+HCMUS-F01-P14,Staff member 14 (HCMUS Faculty 1),PERSON,HCMUS-F01,HCMUS,faculty
+HCMUS-F02,HCMUS Faculty 2,UNIT,HCMUS,HCMUS,faculty
+HCMUS-F02-P01,Staff member 1 (HCMUS Faculty 2),PERSON,HCMUS-F02,HCMUS,faculty
+HCMUS-F02-P02,Staff member 2 (HCMUS Faculty 2),PERSON,HCMUS-F02,HCMUS,faculty
+HCMUS-F02-P03,Staff member 3 (HCMUS Faculty 2),PERSON,HCMUS-F02,HCMUS,faculty
+HCMUS-F02-P04,Staff member 4 (HCMUS Faculty 2),PERSON,HCMUS-F02,HCMUS,faculty
+HCMUS-F02-P05,Staff member 5 (HCMUS Faculty 2),PERSON,HCMUS-F02,HCMUS,faculty
+HCMUS-F02-P06,Staff member 6 (HCMUS Faculty 2),PERSON,HCMUS-F02,HCMUS,faculty
+HCMUS-F02-P07,Staff member 7 (HCMUS Faculty 2),PERSON,HCMUS-F02,HCMUS,faculty
+HCMUS-F02-P08,Staff member 8 (HCMUS Faculty 2),PERSON,HCMUS-F02,HCMUS,faculty
+HCMUS-F02-P09,Staff member 9 (HCMUS Faculty 2),PERSON,HCMUS-F02,HCMUS,faculty
+HCMUS-F02-P10,Staff member 10 (HCMUS Faculty 2),PERSON,HCMUS-F02,HCMUS,faculty
+HCMUS-F02-P11,Staff member 11 (HCMUS Faculty 2),PERSON,HCMUS-F02,HCMUS,faculty
+HCMUS-F02-P12,Staff member 12 (HCMUS Faculty 2),PERSON,HCMUS-F02,HCMUS,faculty
+HCMUS-F02-P13,Staff member 13 (HCMUS Faculty 2),PERSON,HCMUS-F02,HCMUS,faculty
+HCMUS-F02-P14,Staff member 14 (HCMUS Faculty 2),PERSON,HCMUS-F02,HCMUS,faculty
+HCMUS-F03,HCMUS Faculty 3,UNIT,HCMUS,HCMUS,faculty
+HCMUS-F03-P01,Staff member 1 (HCMUS Faculty 3),PERSON,HCMUS-F03,HCMUS,faculty
+HCMUS-F03-P02,Staff member 2 (HCMUS Faculty 3),PERSON,HCMUS-F03,HCMUS,faculty
+HCMUS-F03-P03,Staff member 3 (HCMUS Faculty 3),PERSON,HCMUS-F03,HCMUS,faculty
+HCMUS-F03-P04,Staff member 4 (HCMUS Faculty 3),PERSON,HCMUS-F03,HCMUS,faculty
+HCMUS-F03-P05,Staff member 5 (HCMUS Faculty 3),PERSON,HCMUS-F03,HCMUS,faculty
+HCMUS-F03-P06,Staff member 6 (HCMUS Faculty 3),PERSON,HCMUS-F03,HCMUS,faculty
+HCMUS-F03-P07,Staff member 7 (HCMUS Faculty 3),PERSON,HCMUS-F03,HCMUS,faculty
+HCMUS-F03-P08,Staff member 8 (HCMUS Faculty 3),PERSON,HCMUS-F03,HCMUS,faculty
+HCMUS-F03-P09,Staff member 9 (HCMUS Faculty 3),PERSON,HCMUS-F03,HCMUS,faculty
+HCMUS-F03-P10,Staff member 10 (HCMUS Faculty 3),PERSON,HCMUS-F03,HCMUS,faculty
+HCMUS-F03-P11,Staff member 11 (HCMUS Faculty 3),PERSON,HCMUS-F03,HCMUS,faculty
+HCMUS-F03-P12,Staff member 12 (HCMUS Faculty 3),PERSON,HCMUS-F03,HCMUS,faculty
+HCMUS-F04,HCMUS Faculty 4,UNIT,HCMUS,HCMUS,faculty
+HCMUS-F04-P01,Staff member 1 (HCMUS Faculty 4),PERSON,HCMUS-F04,HCMUS,faculty
+HCMUS-F04-P02,Staff member 2 (HCMUS Faculty 4),PERSON,HCMUS-F04,HCMUS,faculty
+HCMUS-F04-P03,Staff member 3 (HCMUS Faculty 4),PERSON,HCMUS-F04,HCMUS,faculty
+HCMUS-F04-P04,Staff member 4 (HCMUS Faculty 4),PERSON,HCMUS-F04,HCMUS,faculty
+HCMUS-F04-P05,Staff member 5 (HCMUS Faculty 4),PERSON,HCMUS-F04,HCMUS,faculty
+HCMUS-F04-P06,Staff member 6 (HCMUS Faculty 4),PERSON,HCMUS-F04,HCMUS,faculty
+HCMUS-F04-P07,Staff member 7 (HCMUS Faculty 4),PERSON,HCMUS-F04,HCMUS,faculty
+HCMUS-F04-P08,Staff member 8 (HCMUS Faculty 4),PERSON,HCMUS-F04,HCMUS,faculty
+HCMUS-F04-P09,Staff member 9 (HCMUS Faculty 4),PERSON,HCMUS-F04,HCMUS,faculty
+HCMUS-F04-P10,Staff member 10 (HCMUS Faculty 4),PERSON,HCMUS-F04,HCMUS,faculty
+HCMUS-F04-P11,Staff member 11 (HCMUS Faculty 4),PERSON,HCMUS-F04,HCMUS,faculty
+HCMUS-F05,HCMUS Faculty 5,UNIT,HCMUS,HCMUS,faculty
+HCMUS-F05-P01,Staff member 1 (HCMUS Faculty 5),PERSON,HCMUS-F05,HCMUS,faculty
+HCMUS-F05-P02,Staff member 2 (HCMUS Faculty 5),PERSON,HCMUS-F05,HCMUS,faculty
+HCMUS-F05-P03,Staff member 3 (HCMUS Faculty 5),PERSON,HCMUS-F05,HCMUS,faculty
+HCMUS-F05-P04,Staff member 4 (HCMUS Faculty 5),PERSON,HCMUS-F05,HCMUS,faculty
+HCMUS-F05-P05,Staff member 5 (HCMUS Faculty 5),PERSON,HCMUS-F05,HCMUS,faculty
+HCMUS-F05-P06,Staff member 6 (HCMUS Faculty 5),PERSON,HCMUS-F05,HCMUS,faculty
+HCMUS-F05-P07,Staff member 7 (HCMUS Faculty 5),PERSON,HCMUS-F05,HCMUS,faculty
+HCMUS-F05-P08,Staff member 8 (HCMUS Faculty 5),PERSON,HCMUS-F05,HCMUS,faculty
+HCMUS-F05-P09,Staff member 9 (HCMUS Faculty 5),PERSON,HCMUS-F05,HCMUS,faculty
+HCMUS-F05-P10,Staff member 10 (HCMUS Faculty 5),PERSON,HCMUS-F05,HCMUS,faculty
+HCMUS-F05-P11,Staff member 11 (HCMUS Faculty 5),PERSON,HCMUS-F05,HCMUS,faculty
+HCMUS-F05-P12,Staff member 12 (HCMUS Faculty 5),PERSON,HCMUS-F05,HCMUS,faculty
+HCMUS-F05-P13,Staff member 13 (HCMUS Faculty 5),PERSON,HCMUS-F05,HCMUS,faculty
+HCMUS-F06,HCMUS Faculty 6,UNIT,HCMUS,HCMUS,faculty
+HCMUS-F06-P01,Staff member 1 (HCMUS Faculty 6),PERSON,HCMUS-F06,HCMUS,faculty
+HCMUS-F06-P02,Staff member 2 (HCMUS Faculty 6),PERSON,HCMUS-F06,HCMUS,faculty
+HCMUS-F06-P03,Staff member 3 (HCMUS Faculty 6),PERSON,HCMUS-F06,HCMUS,faculty
+HCMUS-F06-P04,Staff member 4 (HCMUS Faculty 6),PERSON,HCMUS-F06,HCMUS,faculty
+HCMUS-F06-P05,Staff member 5 (HCMUS Faculty 6),PERSON,HCMUS-F06,HCMUS,faculty
+HCMUS-F06-P06,Staff member 6 (HCMUS Faculty 6),PERSON,HCMUS-F06,HCMUS,faculty
+HCMUS-F06-P07,Staff member 7 (HCMUS Faculty 6),PERSON,HCMUS-F06,HCMUS,faculty
+HCMUS-F06-P08,Staff member 8 (HCMUS Faculty 6),PERSON,HCMUS-F06,HCMUS,faculty
+HCMUS-F06-P09,Staff member 9 (HCMUS Faculty 6),PERSON,HCMUS-F06,HCMUS,faculty
+HCMUS-F06-P10,Staff member 10 (HCMUS Faculty 6),PERSON,HCMUS-F06,HCMUS,faculty
+HCMUS-F06-P11,Staff member 11 (HCMUS Faculty 6),PERSON,HCMUS-F06,HCMUS,faculty
+HCMUS-EXT,External Relations Office,UNIT,HCMUS,HCMUS,office
+HCMUS-EXT-P01,Staff member 1 (External Relations Office),PERSON,HCMUS-EXT,HCMUS,office
+HCMUS-EXT-P02,Staff member 2 (External Relations Office),PERSON,HCMUS-EXT,HCMUS,office
+HCMUS-EXT-P03,Staff member 3 (External Relations Office),PERSON,HCMUS-EXT,HCMUS,office
+HCMUS-EXT-P04,Staff member 4 (External Relations Office),PERSON,HCMUS-EXT,HCMUS,office
+HCMUS-EXT-P05,Staff member 5 (External Relations Office),PERSON,HCMUS-EXT,HCMUS,office
+HCMUS-ACA,Academic Affairs Office,UNIT,HCMUS,HCMUS,office
+HCMUS-ACA-P01,Staff member 1 (Academic Affairs Office),PERSON,HCMUS-ACA,HCMUS,office
+HCMUS-ACA-P02,Staff member 2 (Academic Affairs Office),PERSON,HCMUS-ACA,HCMUS,office
+HCMUS-ACA-P03,Staff member 3 (Academic Affairs Office),PERSON,HCMUS-ACA,HCMUS,office
+HCMUS-ACA-P04,Staff member 4 (Academic Affairs Office),PERSON,HCMUS-ACA,HCMUS,office
+HCMUS-ACA-P05,Staff member 5 (Academic Affairs Office),PERSON,HCMUS-ACA,HCMUS,office
+HCMUS-ACA-P06,Staff member 6 (Academic Affairs Office),PERSON,HCMUS-ACA,HCMUS,office
+HCMUS-FIN,Finance Office,UNIT,HCMUS,HCMUS,office
+HCMUS-FIN-P01,Staff member 1 (Finance Office),PERSON,HCMUS-FIN,HCMUS,office
+HCMUS-FIN-P02,Staff member 2 (Finance Office),PERSON,HCMUS-FIN,HCMUS,office
+HCMUS-FIN-P03,Staff member 3 (Finance Office),PERSON,HCMUS-FIN,HCMUS,office
+HCMUS-FIN-P04,Staff member 4 (Finance Office),PERSON,HCMUS-FIN,HCMUS,office
+HCMUS-FIN-P05,Staff member 5 (Finance Office),PERSON,HCMUS-FIN,HCMUS,office
+USSH,University of Social Sciences and Humanities,UNIVERSITY,VNU,USSH,
+USSH-F01,USSH Faculty 1,UNIT,USSH,USSH,faculty
+USSH-F01-P01,Staff member 1 (USSH Faculty 1),PERSON,USSH-F01,USSH,faculty
+USSH-F01-P02,Staff member 2 (USSH Faculty 1),PERSON,USSH-F01,USSH,faculty
+USSH-F01-P03,Staff member 3 (USSH Faculty 1),PERSON,USSH-F01,USSH,faculty
+USSH-F01-P04,Staff member 4 (USSH Faculty 1),PERSON,USSH-F01,USSH,faculty
+USSH-F01-P05,Staff member 5 (USSH Faculty 1),PERSON,USSH-F01,USSH,faculty
+USSH-F01-P06,Staff member 6 (USSH Faculty 1),PERSON,USSH-F01,USSH,faculty
+USSH-F01-P07,Staff member 7 (USSH Faculty 1),PERSON,USSH-F01,USSH,faculty
+USSH-F01-P08,Staff member 8 (USSH Faculty 1),PERSON,USSH-F01,USSH,faculty
+USSH-F01-P09,Staff member 9 (USSH Faculty 1),PERSON,USSH-F01,USSH,faculty
+USSH-F01-P10,Staff member 10 (USSH Faculty 1),PERSON,USSH-F01,USSH,faculty
+USSH-F01-P11,Staff member 11 (USSH Faculty 1),PERSON,USSH-F01,USSH,faculty
+USSH-F01-P12,Staff member 12 (USSH Faculty 1),PERSON,USSH-F01,USSH,faculty
+USSH-F01-P13,Staff member 13 (USSH Faculty 1),PERSON,USSH-F01,USSH,faculty
+USSH-F01-P14,Staff member 14 (USSH Faculty 1),PERSON,USSH-F01,USSH,faculty
+USSH-F02,USSH Faculty 2,UNIT,USSH,USSH,faculty
+USSH-F02-P01,Staff member 1 (USSH Faculty 2),PERSON,USSH-F02,USSH,faculty
+USSH-F02-P02,Staff member 2 (USSH Faculty 2),PERSON,USSH-F02,USSH,faculty
+USSH-F02-P03,Staff member 3 (USSH Faculty 2),PERSON,USSH-F02,USSH,faculty
+USSH-F02-P04,Staff member 4 (USSH Faculty 2),PERSON,USSH-F02,USSH,faculty
+USSH-F02-P05,Staff member 5 (USSH Faculty 2),PERSON,USSH-F02,USSH,faculty
+USSH-F02-P06,Staff member 6 (USSH Faculty 2),PERSON,USSH-F02,USSH,faculty
+USSH-F02-P07,Staff member 7 (USSH Faculty 2),PERSON,USSH-F02,USSH,faculty
+USSH-F02-P08,Staff member 8 (USSH Faculty 2),PERSON,USSH-F02,USSH,faculty
+USSH-F02-P09,Staff member 9 (USSH Faculty 2),PERSON,USSH-F02,USSH,faculty
+USSH-F02-P10,Staff member 10 (USSH Faculty 2),PERSON,USSH-F02,USSH,faculty
+USSH-F02-P11,Staff member 11 (USSH Faculty 2),PERSON,USSH-F02,USSH,faculty
+USSH-F02-P12,Staff member 12 (USSH Faculty 2),PERSON,USSH-F02,USSH,faculty
+USSH-F02-P13,Staff member 13 (USSH Faculty 2),PERSON,USSH-F02,USSH,faculty
+USSH-F02-P14,Staff member 14 (USSH Faculty 2),PERSON,USSH-F02,USSH,faculty
+USSH-F03,USSH Faculty 3,UNIT,USSH,USSH,faculty
+USSH-F03-P01,Staff member 1 (USSH Faculty 3),PERSON,USSH-F03,USSH,faculty
+USSH-F03-P02,Staff member 2 (USSH Faculty 3),PERSON,USSH-F03,USSH,faculty
+USSH-F03-P03,Staff member 3 (USSH Faculty 3),PERSON,USSH-F03,USSH,faculty
+USSH-F03-P04,Staff member 4 (USSH Faculty 3),PERSON,USSH-F03,USSH,faculty
+USSH-F03-P05,Staff member 5 (USSH Faculty 3),PERSON,USSH-F03,USSH,faculty
+USSH-F03-P06,Staff member 6 (USSH Faculty 3),PERSON,USSH-F03,USSH,faculty
+USSH-F03-P07,Staff member 7 (USSH Faculty 3),PERSON,USSH-F03,USSH,faculty
+USSH-F03-P08,Staff member 8 (USSH Faculty 3),PERSON,USSH-F03,USSH,faculty
+USSH-F03-P09,Staff member 9 (USSH Faculty 3),PERSON,USSH-F03,USSH,faculty
+USSH-F04,USSH Faculty 4,UNIT,USSH,USSH,faculty
+USSH-F04-P01,Staff member 1 (USSH Faculty 4),PERSON,USSH-F04,USSH,faculty
+USSH-F04-P02,Staff member 2 (USSH Faculty 4),PERSON,USSH-F04,USSH,faculty
+USSH-F04-P03,Staff member 3 (USSH Faculty 4),PERSON,USSH-F04,USSH,faculty
+USSH-F04-P04,Staff member 4 (USSH Faculty 4),PERSON,USSH-F04,USSH,faculty
+USSH-F04-P05,Staff member 5 (USSH Faculty 4),PERSON,USSH-F04,USSH,faculty
+USSH-F04-P06,Staff member 6 (USSH Faculty 4),PERSON,USSH-F04,USSH,faculty
+USSH-F04-P07,Staff member 7 (USSH Faculty 4),PERSON,USSH-F04,USSH,faculty
+USSH-F04-P08,Staff member 8 (USSH Faculty 4),PERSON,USSH-F04,USSH,faculty
+USSH-F04-P09,Staff member 9 (USSH Faculty 4),PERSON,USSH-F04,USSH,faculty
+USSH-F04-P10,Staff member 10 (USSH Faculty 4),PERSON,USSH-F04,USSH,faculty
+USSH-F04-P11,Staff member 11 (USSH Faculty 4),PERSON,USSH-F04,USSH,faculty
+USSH-F05,USSH Faculty 5,UNIT,USSH,USSH,faculty
+USSH-F05-P01,Staff member 1 (USSH Faculty 5),PERSON,USSH-F05,USSH,faculty
+USSH-F05-P02,Staff member 2 (USSH Faculty 5),PERSON,USSH-F05,USSH,faculty
+USSH-F05-P03,Staff member 3 (USSH Faculty 5),PERSON,USSH-F05,USSH,faculty
+USSH-F05-P04,Staff member 4 (USSH Faculty 5),PERSON,USSH-F05,USSH,faculty
+USSH-F05-P05,Staff member 5 (USSH Faculty 5),PERSON,USSH-F05,USSH,faculty
+USSH-F05-P06,Staff member 6 (USSH Faculty 5),PERSON,USSH-F05,USSH,faculty
+USSH-F05-P07,Staff member 7 (USSH Faculty 5),PERSON,USSH-F05,USSH,faculty
+USSH-F05-P08,Staff member 8 (USSH Faculty 5),PERSON,USSH-F05,USSH,faculty
+USSH-F05-P09,Staff member 9 (USSH Faculty 5),PERSON,USSH-F05,USSH,faculty
+USSH-F05-P10,Staff member 10 (USSH Faculty 5),PERSON,USSH-F05,USSH,faculty
+USSH-F05-P11,Staff member 11 (USSH Faculty 5),PERSON,USSH-F05,USSH,faculty
+USSH-F06,USSH Faculty 6,UNIT,USSH,USSH,faculty
+USSH-F06-P01,Staff member 1 (USSH Faculty 6),PERSON,USSH-F06,USSH,faculty
+USSH-F06-P02,Staff member 2 (USSH Faculty 6),PERSON,USSH-F06,USSH,faculty
+USSH-F06-P03,Staff member 3 (USSH Faculty 6),PERSON,USSH-F06,USSH,faculty
+USSH-F06-P04,Staff member 4 (USSH Faculty 6),PERSON,USSH-F06,USSH,faculty
+USSH-F06-P05,Staff member 5 (USSH Faculty 6),PERSON,USSH-F06,USSH,faculty
+USSH-F06-P06,Staff member 6 (USSH Faculty 6),PERSON,USSH-F06,USSH,faculty
+USSH-F06-P07,Staff member 7 (USSH Faculty 6),PERSON,USSH-F06,USSH,faculty
+USSH-F06-P08,Staff member 8 (USSH Faculty 6),PERSON,USSH-F06,USSH,faculty
+USSH-F07,USSH Faculty 7,UNIT,USSH,USSH,faculty
+USSH-F07-P01,Staff member 1 (USSH Faculty 7),PERSON,USSH-F07,USSH,faculty
+USSH-F07-P02,Staff member 2 (USSH Faculty 7),PERSON,USSH-F07,USSH,faculty
+USSH-F07-P03,Staff member 3 (USSH Faculty 7),PERSON,USSH-F07,USSH,faculty
+USSH-F07-P04,Staff member 4 (USSH Faculty 7),PERSON,USSH-F07,USSH,faculty
+USSH-F07-P05,Staff member 5 (USSH Faculty 7),PERSON,USSH-F07,USSH,faculty
+USSH-F07-P06,Staff member 6 (USSH Faculty 7),PERSON,USSH-F07,USSH,faculty
+USSH-F07-P07,Staff member 7 (USSH Faculty 7),PERSON,USSH-F07,USSH,faculty
+USSH-F07-P08,Staff member 8 (USSH Faculty 7),PERSON,USSH-F07,USSH,faculty
+USSH-F07-P09,Staff member 9 (USSH Faculty 7),PERSON,USSH-F07,USSH,faculty
+USSH-F07-P10,Staff member 10 (USSH Faculty 7),PERSON,USSH-F07,USSH,faculty
+USSH-F08,USSH Faculty 8,UNIT,USSH,USSH,faculty
+USSH-F08-P01,Staff member 1 (USSH Faculty 8),PERSON,USSH-F08,USSH,faculty
+USSH-F08-P02,Staff member 2 (USSH Faculty 8),PERSON,USSH-F08,USSH,faculty
+USSH-F08-P03,Staff member 3 (USSH Faculty 8),PERSON,USSH-F08,USSH,faculty
+USSH-F08-P04,Staff member 4 (USSH Faculty 8),PERSON,USSH-F08,USSH,faculty
+USSH-F08-P05,Staff member 5 (USSH Faculty 8),PERSON,USSH-F08,USSH,faculty
+USSH-F08-P06,Staff member 6 (USSH Faculty 8),PERSON,USSH-F08,USSH,faculty
+USSH-F08-P07,Staff member 7 (USSH Faculty 8),PERSON,USSH-F08,USSH,faculty
+USSH-F08-P08,Staff member 8 (USSH Faculty 8),PERSON,USSH-F08,USSH,faculty
+USSH-F09,USSH Faculty 9,UNIT,USSH,USSH,faculty
+USSH-F09-P01,Staff member 1 (USSH Faculty 9),PERSON,USSH-F09,USSH,faculty
+USSH-F09-P02,Staff member 2 (USSH Faculty 9),PERSON,USSH-F09,USSH,faculty
+USSH-F09-P03,Staff member 3 (USSH Faculty 9),PERSON,USSH-F09,USSH,faculty
+USSH-F09-P04,Staff member 4 (USSH Faculty 9),PERSON,USSH-F09,USSH,faculty
+USSH-F09-P05,Staff member 5 (USSH Faculty 9),PERSON,USSH-F09,USSH,faculty
+USSH-F09-P06,Staff member 6 (USSH Faculty 9),PERSON,USSH-F09,USSH,faculty
+USSH-F09-P07,Staff member 7 (USSH Faculty 9),PERSON,USSH-F09,USSH,faculty
+USSH-F09-P08,Staff member 8 (USSH Faculty 9),PERSON,USSH-F09,USSH,faculty
+USSH-EXT,External Relations Office,UNIT,USSH,USSH,office
+USSH-EXT-P01,Staff member 1 (External Relations Office),PERSON,USSH-EXT,USSH,office
+USSH-EXT-P02,Staff member 2 (External Relations Office),PERSON,USSH-EXT,USSH,office
+USSH-EXT-P03,Staff member 3 (External Relations Office),PERSON,USSH-EXT,USSH,office
+USSH-EXT-P04,Staff member 4 (External Relations Office),PERSON,USSH-EXT,USSH,office
+USSH-EXT-P05,Staff member 5 (External Relations Office),PERSON,USSH-EXT,USSH,office
+USSH-ACA,Academic Affairs Office,UNIT,USSH,USSH,office
+USSH-ACA-P01,Staff member 1 (Academic Affairs Office),PERSON,USSH-ACA,USSH,office
+USSH-ACA-P02,Staff member 2 (Academic Affairs Office),PERSON,USSH-ACA,USSH,office
+USSH-ACA-P03,Staff member 3 (Academic Affairs Office),PERSON,USSH-ACA,USSH,office
+USSH-ACA-P04,Staff member 4 (Academic Affairs Office),PERSON,USSH-ACA,USSH,office
+USSH-ACA-P05,Staff member 5 (Academic Affairs Office),PERSON,USSH-ACA,USSH,office
+USSH-ACA-P06,Staff member 6 (Academic Affairs Office),PERSON,USSH-ACA,USSH,office
+USSH-FIN,Finance Office,UNIT,USSH,USSH,office
+USSH-FIN-P01,Staff member 1 (Finance Office),PERSON,USSH-FIN,USSH,office
+USSH-FIN-P02,Staff member 2 (Finance Office),PERSON,USSH-FIN,USSH,office
+USSH-FIN-P03,Staff member 3 (Finance Office),PERSON,USSH-FIN,USSH,office
+USSH-FIN-P04,Staff member 4 (Finance Office),PERSON,USSH-FIN,USSH,office
+USSH-FIN-P05,Staff member 5 (Finance Office),PERSON,USSH-FIN,USSH,office
+IU,International University,UNIVERSITY,VNU,IU,
+IU-BA,Faculty of Business Administration,UNIT,IU,IU,faculty
+IU-BA-P01,Staff member 1 (Faculty of Business Administration),PERSON,IU-BA,IU,faculty
+IU-BA-P02,Staff member 2 (Faculty of Business Administration),PERSON,IU-BA,IU,faculty
+IU-BA-P03,Staff member 3 (Faculty of Business Administration),PERSON,IU-BA,IU,faculty
+IU-BA-P04,Staff member 4 (Faculty of Business Administration),PERSON,IU-BA,IU,faculty
+IU-BA-P05,Staff member 5 (Faculty of Business Administration),PERSON,IU-BA,IU,faculty
+IU-BA-P06,Staff member 6 (Faculty of Business Administration),PERSON,IU-BA,IU,faculty
+IU-BA-P07,Staff member 7 (Faculty of Business Administration),PERSON,IU-BA,IU,faculty
+IU-BA-P08,Staff member 8 (Faculty of Business Administration),PERSON,IU-BA,IU,faculty
+IU-BA-P09,Staff member 9 (Faculty of Business Administration),PERSON,IU-BA,IU,faculty
+IU-BA-P10,Staff member 10 (Faculty of Business Administration),PERSON,IU-BA,IU,faculty
+IU-BA-P11,Staff member 11 (Faculty of Business Administration),PERSON,IU-BA,IU,faculty
+IU-BA-P12,Staff member 12 (Faculty of Business Administration),PERSON,IU-BA,IU,faculty
+IU-BA-P13,Staff member 13 (Faculty of Business Administration),PERSON,IU-BA,IU,faculty
+IU-BA-P14,Staff member 14 (Faculty of Business Administration),PERSON,IU-BA,IU,faculty
+IU-EFA,"Faculty of Economics, Finance & Accounting",UNIT,IU,IU,faculty
+IU-EFA-P01,"Staff member 1 (Faculty of Economics, Finance & Accounting)",PERSON,IU-EFA,IU,faculty
+IU-EFA-P02,"Staff member 2 (Faculty of Economics, Finance & Accounting)",PERSON,IU-EFA,IU,faculty
+IU-EFA-P03,"Staff member 3 (Faculty of Economics, Finance & Accounting)",PERSON,IU-EFA,IU,faculty
+IU-EFA-P04,"Staff member 4 (Faculty of Economics, Finance & Accounting)",PERSON,IU-EFA,IU,faculty
+IU-EFA-P05,"Staff member 5 (Faculty of Economics, Finance & Accounting)",PERSON,IU-EFA,IU,faculty
+IU-EFA-P06,"Staff member 6 (Faculty of Economics, Finance & Accounting)",PERSON,IU-EFA,IU,faculty
+IU-EFA-P07,"Staff member 7 (Faculty of Economics, Finance & Accounting)",PERSON,IU-EFA,IU,faculty
+IU-EFA-P08,"Staff member 8 (Faculty of Economics, Finance & Accounting)",PERSON,IU-EFA,IU,faculty
+IU-EFA-P09,"Staff member 9 (Faculty of Economics, Finance & Accounting)",PERSON,IU-EFA,IU,faculty
+IU-EFA-P10,"Staff member 10 (Faculty of Economics, Finance & Accounting)",PERSON,IU-EFA,IU,faculty
+IU-EFA-P11,"Staff member 11 (Faculty of Economics, Finance & Accounting)",PERSON,IU-EFA,IU,faculty
+IU-EFA-P12,"Staff member 12 (Faculty of Economics, Finance & Accounting)",PERSON,IU-EFA,IU,faculty
+IU-BT,Faculty of Biotechnology,UNIT,IU,IU,faculty
+IU-BT-P01,Staff member 1 (Faculty of Biotechnology),PERSON,IU-BT,IU,faculty
+IU-BT-P02,Staff member 2 (Faculty of Biotechnology),PERSON,IU-BT,IU,faculty
+IU-BT-P03,Staff member 3 (Faculty of Biotechnology),PERSON,IU-BT,IU,faculty
+IU-BT-P04,Staff member 4 (Faculty of Biotechnology),PERSON,IU-BT,IU,faculty
+IU-BT-P05,Staff member 5 (Faculty of Biotechnology),PERSON,IU-BT,IU,faculty
+IU-BT-P06,Staff member 6 (Faculty of Biotechnology),PERSON,IU-BT,IU,faculty
+IU-BT-P07,Staff member 7 (Faculty of Biotechnology),PERSON,IU-BT,IU,faculty
+IU-BT-P08,Staff member 8 (Faculty of Biotechnology),PERSON,IU-BT,IU,faculty
+IU-BT-P09,Staff member 9 (Faculty of Biotechnology),PERSON,IU-BT,IU,faculty
+IU-BT-P10,Staff member 10 (Faculty of Biotechnology),PERSON,IU-BT,IU,faculty
+IU-BT-P11,Staff member 11 (Faculty of Biotechnology),PERSON,IU-BT,IU,faculty
+IU-BT-P12,Staff member 12 (Faculty of Biotechnology),PERSON,IU-BT,IU,faculty
+IU-IT,Faculty of Information Technology,UNIT,IU,IU,faculty
+IU-IT-P01,Staff member 1 (Faculty of Information Technology),PERSON,IU-IT,IU,faculty
+IU-IT-P02,Staff member 2 (Faculty of Information Technology),PERSON,IU-IT,IU,faculty
+IU-IT-P03,Staff member 3 (Faculty of Information Technology),PERSON,IU-IT,IU,faculty
+IU-IT-P04,Staff member 4 (Faculty of Information Technology),PERSON,IU-IT,IU,faculty
+IU-IT-P05,Staff member 5 (Faculty of Information Technology),PERSON,IU-IT,IU,faculty
+IU-IT-P06,Staff member 6 (Faculty of Information Technology),PERSON,IU-IT,IU,faculty
+IU-IT-P07,Staff member 7 (Faculty of Information Technology),PERSON,IU-IT,IU,faculty
+IU-IT-P08,Staff member 8 (Faculty of Information Technology),PERSON,IU-IT,IU,faculty
+IU-IT-P09,Staff member 9 (Faculty of Information Technology),PERSON,IU-IT,IU,faculty
+IU-IT-P10,Staff member 10 (Faculty of Information Technology),PERSON,IU-IT,IU,faculty
+IU-IT-P11,Staff member 11 (Faculty of Information Technology),PERSON,IU-IT,IU,faculty
+IU-IT-P12,Staff member 12 (Faculty of Information Technology),PERSON,IU-IT,IU,faculty
+IU-IT-P13,Staff member 13 (Faculty of Information Technology),PERSON,IU-IT,IU,faculty
+IU-IT-P14,Staff member 14 (Faculty of Information Technology),PERSON,IU-IT,IU,faculty
+IU-EEE,Faculty of Electrical & Electronic Engineering,UNIT,IU,IU,faculty
+IU-EEE-P01,Staff member 1 (Faculty of Electrical & Electronic Engineering),PERSON,IU-EEE,IU,faculty
+IU-EEE-P02,Staff member 2 (Faculty of Electrical & Electronic Engineering),PERSON,IU-EEE,IU,faculty
+IU-EEE-P03,Staff member 3 (Faculty of Electrical & Electronic Engineering),PERSON,IU-EEE,IU,faculty
+IU-EEE-P04,Staff member 4 (Faculty of Electrical & Electronic Engineering),PERSON,IU-EEE,IU,faculty
+IU-EEE-P05,Staff member 5 (Faculty of Electrical & Electronic Engineering),PERSON,IU-EEE,IU,faculty
+IU-EEE-P06,Staff member 6 (Faculty of Electrical & Electronic Engineering),PERSON,IU-EEE,IU,faculty
+IU-EEE-P07,Staff member 7 (Faculty of Electrical & Electronic Engineering),PERSON,IU-EEE,IU,faculty
+IU-EEE-P08,Staff member 8 (Faculty of Electrical & Electronic Engineering),PERSON,IU-EEE,IU,faculty
+IU-EEE-P09,Staff member 9 (Faculty of Electrical & Electronic Engineering),PERSON,IU-EEE,IU,faculty
+IU-EEE-P10,Staff member 10 (Faculty of Electrical & Electronic Engineering),PERSON,IU-EEE,IU,faculty
+IU-EEE-P11,Staff member 11 (Faculty of Electrical & Electronic Engineering),PERSON,IU-EEE,IU,faculty
+IU-EEE-P12,Staff member 12 (Faculty of Electrical & Electronic Engineering),PERSON,IU-EEE,IU,faculty
+IU-BME,Faculty of Biomedical Engineering,UNIT,IU,IU,faculty
+IU-BME-P01,Staff member 1 (Faculty of Biomedical Engineering),PERSON,IU-BME,IU,faculty
+IU-BME-P02,Staff member 2 (Faculty of Biomedical Engineering),PERSON,IU-BME,IU,faculty
+IU-BME-P03,Staff member 3 (Faculty of Biomedical Engineering),PERSON,IU-BME,IU,faculty
+IU-BME-P04,Staff member 4 (Faculty of Biomedical Engineering),PERSON,IU-BME,IU,faculty
+IU-BME-P05,Staff member 5 (Faculty of Biomedical Engineering),PERSON,IU-BME,IU,faculty
+IU-BME-P06,Staff member 6 (Faculty of Biomedical Engineering),PERSON,IU-BME,IU,faculty
+IU-BME-P07,Staff member 7 (Faculty of Biomedical Engineering),PERSON,IU-BME,IU,faculty
+IU-BME-P08,Staff member 8 (Faculty of Biomedical Engineering),PERSON,IU-BME,IU,faculty
+IU-BME-P09,Staff member 9 (Faculty of Biomedical Engineering),PERSON,IU-BME,IU,faculty
+IU-BME-P10,Staff member 10 (Faculty of Biomedical Engineering),PERSON,IU-BME,IU,faculty
+IU-IEM,Faculty of Industrial Engineering & Management,UNIT,IU,IU,faculty
+IU-IEM-P01,Staff member 1 (Faculty of Industrial Engineering & Management),PERSON,IU-IEM,IU,faculty
+IU-IEM-P02,Staff member 2 (Faculty of Industrial Engineering & Management),PERSON,IU-IEM,IU,faculty
+IU-IEM-P03,Staff member 3 (Faculty of Industrial Engineering & Management),PERSON,IU-IEM,IU,faculty
+IU-IEM-P04,Staff member 4 (Faculty of Industrial Engineering & Management),PERSON,IU-IEM,IU,faculty
+IU-IEM-P05,Staff member 5 (Faculty of Industrial Engineering & Management),PERSON,IU-IEM,IU,faculty
+IU-IEM-P06,Staff member 6 (Faculty of Industrial Engineering & Management),PERSON,IU-IEM,IU,faculty
+IU-IEM-P07,Staff member 7 (Faculty of Industrial Engineering & Management),PERSON,IU-IEM,IU,faculty
+IU-IEM-P08,Staff member 8 (Faculty of Industrial Engineering & Management),PERSON,IU-IEM,IU,faculty
+IU-IEM-P09,Staff member 9 (Faculty of Industrial Engineering & Management),PERSON,IU-IEM,IU,faculty
+IU-IEM-P10,Staff member 10 (Faculty of Industrial Engineering & Management),PERSON,IU-IEM,IU,faculty
+IU-CEE,Faculty of Chemical & Environmental Engineering,UNIT,IU,IU,faculty
+IU-CEE-P01,Staff member 1 (Faculty of Chemical & Environmental Engineering),PERSON,IU-CEE,IU,faculty
+IU-CEE-P02,Staff member 2 (Faculty of Chemical & Environmental Engineering),PERSON,IU-CEE,IU,faculty
+IU-CEE-P03,Staff member 3 (Faculty of Chemical & Environmental Engineering),PERSON,IU-CEE,IU,faculty
+IU-CEE-P04,Staff member 4 (Faculty of Chemical & Environmental Engineering),PERSON,IU-CEE,IU,faculty
+IU-CEE-P05,Staff member 5 (Faculty of Chemical & Environmental Engineering),PERSON,IU-CEE,IU,faculty
+IU-CEE-P06,Staff member 6 (Faculty of Chemical & Environmental Engineering),PERSON,IU-CEE,IU,faculty
+IU-CEE-P07,Staff member 7 (Faculty of Chemical & Environmental Engineering),PERSON,IU-CEE,IU,faculty
+IU-CEE-P08,Staff member 8 (Faculty of Chemical & Environmental Engineering),PERSON,IU-CEE,IU,faculty
+IU-CEE-P09,Staff member 9 (Faculty of Chemical & Environmental Engineering),PERSON,IU-CEE,IU,faculty
+IU-CEE-P10,Staff member 10 (Faculty of Chemical & Environmental Engineering),PERSON,IU-CEE,IU,faculty
+IU-CEM,Faculty of Civil Engineering & Construction Management,UNIT,IU,IU,faculty
+IU-CEM-P01,Staff member 1 (Faculty of Civil Engineering & Construction Management),PERSON,IU-CEM,IU,faculty
+IU-CEM-P02,Staff member 2 (Faculty of Civil Engineering & Construction Management),PERSON,IU-CEM,IU,faculty
+IU-CEM-P03,Staff member 3 (Faculty of Civil Engineering & Construction Management),PERSON,IU-CEM,IU,faculty
+IU-CEM-P04,Staff member 4 (Faculty of Civil Engineering & Construction Management),PERSON,IU-CEM,IU,faculty
+IU-CEM-P05,Staff member 5 (Faculty of Civil Engineering & Construction Management),PERSON,IU-CEM,IU,faculty
+IU-CEM-P06,Staff member 6 (Faculty of Civil Engineering & Construction Management),PERSON,IU-CEM,IU,faculty
+IU-CEM-P07,Staff member 7 (Faculty of Civil Engineering & Construction Management),PERSON,IU-CEM,IU,faculty
+IU-CEM-P08,Staff member 8 (Faculty of Civil Engineering & Construction Management),PERSON,IU-CEM,IU,faculty
+IU-CEM-P09,Staff member 9 (Faculty of Civil Engineering & Construction Management),PERSON,IU-CEM,IU,faculty
+IU-CEM-P10,Staff member 10 (Faculty of Civil Engineering & Construction Management),PERSON,IU-CEM,IU,faculty
+IU-FL,Faculty of Foreign Languages,UNIT,IU,IU,faculty
+IU-FL-P01,Staff member 1 (Faculty of Foreign Languages),PERSON,IU-FL,IU,faculty
+IU-FL-P02,Staff member 2 (Faculty of Foreign Languages),PERSON,IU-FL,IU,faculty
+IU-FL-P03,Staff member 3 (Faculty of Foreign Languages),PERSON,IU-FL,IU,faculty
+IU-FL-P04,Staff member 4 (Faculty of Foreign Languages),PERSON,IU-FL,IU,faculty
+IU-FL-P05,Staff member 5 (Faculty of Foreign Languages),PERSON,IU-FL,IU,faculty
+IU-FL-P06,Staff member 6 (Faculty of Foreign Languages),PERSON,IU-FL,IU,faculty
+IU-FL-P07,Staff member 7 (Faculty of Foreign Languages),PERSON,IU-FL,IU,faculty
+IU-FL-P08,Staff member 8 (Faculty of Foreign Languages),PERSON,IU-FL,IU,faculty
+IU-FL-P09,Staff member 9 (Faculty of Foreign Languages),PERSON,IU-FL,IU,faculty
+IU-FL-P10,Staff member 10 (Faculty of Foreign Languages),PERSON,IU-FL,IU,faculty
+IU-FL-P11,Staff member 11 (Faculty of Foreign Languages),PERSON,IU-FL,IU,faculty
+IU-FL-P12,Staff member 12 (Faculty of Foreign Languages),PERSON,IU-FL,IU,faculty
+IU-FL-P13,Staff member 13 (Faculty of Foreign Languages),PERSON,IU-FL,IU,faculty
+IU-FL-P14,Staff member 14 (Faculty of Foreign Languages),PERSON,IU-FL,IU,faculty
+IU-PHY,Department of Physics,UNIT,IU,IU,faculty
+IU-PHY-P01,Staff member 1 (Department of Physics),PERSON,IU-PHY,IU,faculty
+IU-PHY-P02,Staff member 2 (Department of Physics),PERSON,IU-PHY,IU,faculty
+IU-PHY-P03,Staff member 3 (Department of Physics),PERSON,IU-PHY,IU,faculty
+IU-PHY-P04,Staff member 4 (Department of Physics),PERSON,IU-PHY,IU,faculty
+IU-PHY-P05,Staff member 5 (Department of Physics),PERSON,IU-PHY,IU,faculty
+IU-PHY-P06,Staff member 6 (Department of Physics),PERSON,IU-PHY,IU,faculty
+IU-PHY-P07,Staff member 7 (Department of Physics),PERSON,IU-PHY,IU,faculty
+IU-PHY-P08,Staff member 8 (Department of Physics),PERSON,IU-PHY,IU,faculty
+IU-MATH,Department of Mathematics,UNIT,IU,IU,faculty
+IU-MATH-P01,Staff member 1 (Department of Mathematics),PERSON,IU-MATH,IU,faculty
+IU-MATH-P02,Staff member 2 (Department of Mathematics),PERSON,IU-MATH,IU,faculty
+IU-MATH-P03,Staff member 3 (Department of Mathematics),PERSON,IU-MATH,IU,faculty
+IU-MATH-P04,Staff member 4 (Department of Mathematics),PERSON,IU-MATH,IU,faculty
+IU-MATH-P05,Staff member 5 (Department of Mathematics),PERSON,IU-MATH,IU,faculty
+IU-MATH-P06,Staff member 6 (Department of Mathematics),PERSON,IU-MATH,IU,faculty
+IU-MATH-P07,Staff member 7 (Department of Mathematics),PERSON,IU-MATH,IU,faculty
+IU-MATH-P08,Staff member 8 (Department of Mathematics),PERSON,IU-MATH,IU,faculty
+IU-EXT,External Relations Office,UNIT,IU,IU,office
+IU-EXT-P01,Staff member 1 (External Relations Office),PERSON,IU-EXT,IU,office
+IU-EXT-P02,Staff member 2 (External Relations Office),PERSON,IU-EXT,IU,office
+IU-EXT-P03,Staff member 3 (External Relations Office),PERSON,IU-EXT,IU,office
+IU-EXT-P04,Staff member 4 (External Relations Office),PERSON,IU-EXT,IU,office
+IU-EXT-P05,Staff member 5 (External Relations Office),PERSON,IU-EXT,IU,office
+IU-ACA,Academic Affairs Office,UNIT,IU,IU,office
+IU-ACA-P01,Staff member 1 (Academic Affairs Office),PERSON,IU-ACA,IU,office
+IU-ACA-P02,Staff member 2 (Academic Affairs Office),PERSON,IU-ACA,IU,office
+IU-ACA-P03,Staff member 3 (Academic Affairs Office),PERSON,IU-ACA,IU,office
+IU-ACA-P04,Staff member 4 (Academic Affairs Office),PERSON,IU-ACA,IU,office
+IU-ACA-P05,Staff member 5 (Academic Affairs Office),PERSON,IU-ACA,IU,office
+IU-ACA-P06,Staff member 6 (Academic Affairs Office),PERSON,IU-ACA,IU,office
+IU-FIN,Finance Office,UNIT,IU,IU,office
+IU-FIN-P01,Staff member 1 (Finance Office),PERSON,IU-FIN,IU,office
+IU-FIN-P02,Staff member 2 (Finance Office),PERSON,IU-FIN,IU,office
+IU-FIN-P03,Staff member 3 (Finance Office),PERSON,IU-FIN,IU,office
+IU-FIN-P04,Staff member 4 (Finance Office),PERSON,IU-FIN,IU,office
+IU-FIN-P05,Staff member 5 (Finance Office),PERSON,IU-FIN,IU,office
+UEL,University of Economics and Law,UNIVERSITY,VNU,UEL,
+UEL-F01,UEL Faculty 1,UNIT,UEL,UEL,faculty
+UEL-F01-P01,Staff member 1 (UEL Faculty 1),PERSON,UEL-F01,UEL,faculty
+UEL-F01-P02,Staff member 2 (UEL Faculty 1),PERSON,UEL-F01,UEL,faculty
+UEL-F01-P03,Staff member 3 (UEL Faculty 1),PERSON,UEL-F01,UEL,faculty
+UEL-F01-P04,Staff member 4 (UEL Faculty 1),PERSON,UEL-F01,UEL,faculty
+UEL-F01-P05,Staff member 5 (UEL Faculty 1),PERSON,UEL-F01,UEL,faculty
+UEL-F01-P06,Staff member 6 (UEL Faculty 1),PERSON,UEL-F01,UEL,faculty
+UEL-F01-P07,Staff member 7 (UEL Faculty 1),PERSON,UEL-F01,UEL,faculty
+UEL-F01-P08,Staff member 8 (UEL Faculty 1),PERSON,UEL-F01,UEL,faculty
+UEL-F01-P09,Staff member 9 (UEL Faculty 1),PERSON,UEL-F01,UEL,faculty
+UEL-F01-P10,Staff member 10 (UEL Faculty 1),PERSON,UEL-F01,UEL,faculty
+UEL-F02,UEL Faculty 2,UNIT,UEL,UEL,faculty
+UEL-F02-P01,Staff member 1 (UEL Faculty 2),PERSON,UEL-F02,UEL,faculty
+UEL-F02-P02,Staff member 2 (UEL Faculty 2),PERSON,UEL-F02,UEL,faculty
+UEL-F02-P03,Staff member 3 (UEL Faculty 2),PERSON,UEL-F02,UEL,faculty
+UEL-F02-P04,Staff member 4 (UEL Faculty 2),PERSON,UEL-F02,UEL,faculty
+UEL-F02-P05,Staff member 5 (UEL Faculty 2),PERSON,UEL-F02,UEL,faculty
+UEL-F02-P06,Staff member 6 (UEL Faculty 2),PERSON,UEL-F02,UEL,faculty
+UEL-F02-P07,Staff member 7 (UEL Faculty 2),PERSON,UEL-F02,UEL,faculty
+UEL-F02-P08,Staff member 8 (UEL Faculty 2),PERSON,UEL-F02,UEL,faculty
+UEL-F02-P09,Staff member 9 (UEL Faculty 2),PERSON,UEL-F02,UEL,faculty
+UEL-F02-P10,Staff member 10 (UEL Faculty 2),PERSON,UEL-F02,UEL,faculty
+UEL-F02-P11,Staff member 11 (UEL Faculty 2),PERSON,UEL-F02,UEL,faculty
+UEL-F02-P12,Staff member 12 (UEL Faculty 2),PERSON,UEL-F02,UEL,faculty
+UEL-F03,UEL Faculty 3,UNIT,UEL,UEL,faculty
+UEL-F03-P01,Staff member 1 (UEL Faculty 3),PERSON,UEL-F03,UEL,faculty
+UEL-F03-P02,Staff member 2 (UEL Faculty 3),PERSON,UEL-F03,UEL,faculty
+UEL-F03-P03,Staff member 3 (UEL Faculty 3),PERSON,UEL-F03,UEL,faculty
+UEL-F03-P04,Staff member 4 (UEL Faculty 3),PERSON,UEL-F03,UEL,faculty
+UEL-F03-P05,Staff member 5 (UEL Faculty 3),PERSON,UEL-F03,UEL,faculty
+UEL-F03-P06,Staff member 6 (UEL Faculty 3),PERSON,UEL-F03,UEL,faculty
+UEL-F03-P07,Staff member 7 (UEL Faculty 3),PERSON,UEL-F03,UEL,faculty
+UEL-F03-P08,Staff member 8 (UEL Faculty 3),PERSON,UEL-F03,UEL,faculty
+UEL-F03-P09,Staff member 9 (UEL Faculty 3),PERSON,UEL-F03,UEL,faculty
+UEL-F03-P10,Staff member 10 (UEL Faculty 3),PERSON,UEL-F03,UEL,faculty
+UEL-F04,UEL Faculty 4,UNIT,UEL,UEL,faculty
+UEL-F04-P01,Staff member 1 (UEL Faculty 4),PERSON,UEL-F04,UEL,faculty
+UEL-F04-P02,Staff member 2 (UEL Faculty 4),PERSON,UEL-F04,UEL,faculty
+UEL-F04-P03,Staff member 3 (UEL Faculty 4),PERSON,UEL-F04,UEL,faculty
+UEL-F04-P04,Staff member 4 (UEL Faculty 4),PERSON,UEL-F04,UEL,faculty
+UEL-F04-P05,Staff member 5 (UEL Faculty 4),PERSON,UEL-F04,UEL,faculty
+UEL-F04-P06,Staff member 6 (UEL Faculty 4),PERSON,UEL-F04,UEL,faculty
+UEL-F04-P07,Staff member 7 (UEL Faculty 4),PERSON,UEL-F04,UEL,faculty
+UEL-F04-P08,Staff member 8 (UEL Faculty 4),PERSON,UEL-F04,UEL,faculty
+UEL-F04-P09,Staff member 9 (UEL Faculty 4),PERSON,UEL-F04,UEL,faculty
+UEL-F04-P10,Staff member 10 (UEL Faculty 4),PERSON,UEL-F04,UEL,faculty
+UEL-F04-P11,Staff member 11 (UEL Faculty 4),PERSON,UEL-F04,UEL,faculty
+UEL-F04-P12,Staff member 12 (UEL Faculty 4),PERSON,UEL-F04,UEL,faculty
+UEL-F05,UEL Faculty 5,UNIT,UEL,UEL,faculty
+UEL-F05-P01,Staff member 1 (UEL Faculty 5),PERSON,UEL-F05,UEL,faculty
+UEL-F05-P02,Staff member 2 (UEL Faculty 5),PERSON,UEL-F05,UEL,faculty
+UEL-F05-P03,Staff member 3 (UEL Faculty 5),PERSON,UEL-F05,UEL,faculty
+UEL-F05-P04,Staff member 4 (UEL Faculty 5),PERSON,UEL-F05,UEL,faculty
+UEL-F05-P05,Staff member 5 (UEL Faculty 5),PERSON,UEL-F05,UEL,faculty
+UEL-F05-P06,Staff member 6 (UEL Faculty 5),PERSON,UEL-F05,UEL,faculty
+UEL-F05-P07,Staff member 7 (UEL Faculty 5),PERSON,UEL-F05,UEL,faculty
+UEL-F05-P08,Staff member 8 (UEL Faculty 5),PERSON,UEL-F05,UEL,faculty
+UEL-F05-P09,Staff member 9 (UEL Faculty 5),PERSON,UEL-F05,UEL,faculty
+UEL-F05-P10,Staff member 10 (UEL Faculty 5),PERSON,UEL-F05,UEL,faculty
+UEL-F06,UEL Faculty 6,UNIT,UEL,UEL,faculty
+UEL-F06-P01,Staff member 1 (UEL Faculty 6),PERSON,UEL-F06,UEL,faculty
+UEL-F06-P02,Staff member 2 (UEL Faculty 6),PERSON,UEL-F06,UEL,faculty
+UEL-F06-P03,Staff member 3 (UEL Faculty 6),PERSON,UEL-F06,UEL,faculty
+UEL-F06-P04,Staff member 4 (UEL Faculty 6),PERSON,UEL-F06,UEL,faculty
+UEL-F06-P05,Staff member 5 (UEL Faculty 6),PERSON,UEL-F06,UEL,faculty
+UEL-F06-P06,Staff member 6 (UEL Faculty 6),PERSON,UEL-F06,UEL,faculty
+UEL-F06-P07,Staff member 7 (UEL Faculty 6),PERSON,UEL-F06,UEL,faculty
+UEL-F06-P08,Staff member 8 (UEL Faculty 6),PERSON,UEL-F06,UEL,faculty
+UEL-F06-P09,Staff member 9 (UEL Faculty 6),PERSON,UEL-F06,UEL,faculty
+UEL-F06-P10,Staff member 10 (UEL Faculty 6),PERSON,UEL-F06,UEL,faculty
+UEL-F06-P11,Staff member 11 (UEL Faculty 6),PERSON,UEL-F06,UEL,faculty
+UEL-F06-P12,Staff member 12 (UEL Faculty 6),PERSON,UEL-F06,UEL,faculty
+UEL-F06-P13,Staff member 13 (UEL Faculty 6),PERSON,UEL-F06,UEL,faculty
+UEL-F07,UEL Faculty 7,UNIT,UEL,UEL,faculty
+UEL-F07-P01,Staff member 1 (UEL Faculty 7),PERSON,UEL-F07,UEL,faculty
+UEL-F07-P02,Staff member 2 (UEL Faculty 7),PERSON,UEL-F07,UEL,faculty
+UEL-F07-P03,Staff member 3 (UEL Faculty 7),PERSON,UEL-F07,UEL,faculty
+UEL-F07-P04,Staff member 4 (UEL Faculty 7),PERSON,UEL-F07,UEL,faculty
+UEL-F07-P05,Staff member 5 (UEL Faculty 7),PERSON,UEL-F07,UEL,faculty
+UEL-F07-P06,Staff member 6 (UEL Faculty 7),PERSON,UEL-F07,UEL,faculty
+UEL-F07-P07,Staff member 7 (UEL Faculty 7),PERSON,UEL-F07,UEL,faculty
+UEL-F07-P08,Staff member 8 (UEL Faculty 7),PERSON,UEL-F07,UEL,faculty
+UEL-EXT,External Relations Office,UNIT,UEL,UEL,office
+UEL-EXT-P01,Staff member 1 (External Relations Office),PERSON,UEL-EXT,UEL,office
+UEL-EXT-P02,Staff member 2 (External Relations Office),PERSON,UEL-EXT,UEL,office
+UEL-EXT-P03,Staff member 3 (External Relations Office),PERSON,UEL-EXT,UEL,office
+UEL-EXT-P04,Staff member 4 (External Relations Office),PERSON,UEL-EXT,UEL,office
+UEL-EXT-P05,Staff member 5 (External Relations Office),PERSON,UEL-EXT,UEL,office
+UEL-ACA,Academic Affairs Office,UNIT,UEL,UEL,office
+UEL-ACA-P01,Staff member 1 (Academic Affairs Office),PERSON,UEL-ACA,UEL,office
+UEL-ACA-P02,Staff member 2 (Academic Affairs Office),PERSON,UEL-ACA,UEL,office
+UEL-ACA-P03,Staff member 3 (Academic Affairs Office),PERSON,UEL-ACA,UEL,office
+UEL-ACA-P04,Staff member 4 (Academic Affairs Office),PERSON,UEL-ACA,UEL,office
+UEL-ACA-P05,Staff member 5 (Academic Affairs Office),PERSON,UEL-ACA,UEL,office
+UEL-ACA-P06,Staff member 6 (Academic Affairs Office),PERSON,UEL-ACA,UEL,office
+UEL-FIN,Finance Office,UNIT,UEL,UEL,office
+UEL-FIN-P01,Staff member 1 (Finance Office),PERSON,UEL-FIN,UEL,office
+UEL-FIN-P02,Staff member 2 (Finance Office),PERSON,UEL-FIN,UEL,office
+UEL-FIN-P03,Staff member 3 (Finance Office),PERSON,UEL-FIN,UEL,office
+UEL-FIN-P04,Staff member 4 (Finance Office),PERSON,UEL-FIN,UEL,office
+UEL-FIN-P05,Staff member 5 (Finance Office),PERSON,UEL-FIN,UEL,office
+UIT,University of Information Technology,UNIVERSITY,VNU,UIT,
+UIT-F01,UIT Faculty 1,UNIT,UIT,UIT,faculty
+UIT-F01-P01,Staff member 1 (UIT Faculty 1),PERSON,UIT-F01,UIT,faculty
+UIT-F01-P02,Staff member 2 (UIT Faculty 1),PERSON,UIT-F01,UIT,faculty
+UIT-F01-P03,Staff member 3 (UIT Faculty 1),PERSON,UIT-F01,UIT,faculty
+UIT-F01-P04,Staff member 4 (UIT Faculty 1),PERSON,UIT-F01,UIT,faculty
+UIT-F01-P05,Staff member 5 (UIT Faculty 1),PERSON,UIT-F01,UIT,faculty
+UIT-F01-P06,Staff member 6 (UIT Faculty 1),PERSON,UIT-F01,UIT,faculty
+UIT-F01-P07,Staff member 7 (UIT Faculty 1),PERSON,UIT-F01,UIT,faculty
+UIT-F01-P08,Staff member 8 (UIT Faculty 1),PERSON,UIT-F01,UIT,faculty
+UIT-F01-P09,Staff member 9 (UIT Faculty 1),PERSON,UIT-F01,UIT,faculty
+UIT-F01-P10,Staff member 10 (UIT Faculty 1),PERSON,UIT-F01,UIT,faculty
+UIT-F01-P11,Staff member 11 (UIT Faculty 1),PERSON,UIT-F01,UIT,faculty
+UIT-F02,UIT Faculty 2,UNIT,UIT,UIT,faculty
+UIT-F02-P01,Staff member 1 (UIT Faculty 2),PERSON,UIT-F02,UIT,faculty
+UIT-F02-P02,Staff member 2 (UIT Faculty 2),PERSON,UIT-F02,UIT,faculty
+UIT-F02-P03,Staff member 3 (UIT Faculty 2),PERSON,UIT-F02,UIT,faculty
+UIT-F02-P04,Staff member 4 (UIT Faculty 2),PERSON,UIT-F02,UIT,faculty
+UIT-F02-P05,Staff member 5 (UIT Faculty 2),PERSON,UIT-F02,UIT,faculty
+UIT-F02-P06,Staff member 6 (UIT Faculty 2),PERSON,UIT-F02,UIT,faculty
+UIT-F02-P07,Staff member 7 (UIT Faculty 2),PERSON,UIT-F02,UIT,faculty
+UIT-F02-P08,Staff member 8 (UIT Faculty 2),PERSON,UIT-F02,UIT,faculty
+UIT-F03,UIT Faculty 3,UNIT,UIT,UIT,faculty
+UIT-F03-P01,Staff member 1 (UIT Faculty 3),PERSON,UIT-F03,UIT,faculty
+UIT-F03-P02,Staff member 2 (UIT Faculty 3),PERSON,UIT-F03,UIT,faculty
+UIT-F03-P03,Staff member 3 (UIT Faculty 3),PERSON,UIT-F03,UIT,faculty
+UIT-F03-P04,Staff member 4 (UIT Faculty 3),PERSON,UIT-F03,UIT,faculty
+UIT-F03-P05,Staff member 5 (UIT Faculty 3),PERSON,UIT-F03,UIT,faculty
+UIT-F03-P06,Staff member 6 (UIT Faculty 3),PERSON,UIT-F03,UIT,faculty
+UIT-F03-P07,Staff member 7 (UIT Faculty 3),PERSON,UIT-F03,UIT,faculty
+UIT-F03-P08,Staff member 8 (UIT Faculty 3),PERSON,UIT-F03,UIT,faculty
+UIT-F04,UIT Faculty 4,UNIT,UIT,UIT,faculty
+UIT-F04-P01,Staff member 1 (UIT Faculty 4),PERSON,UIT-F04,UIT,faculty
+UIT-F04-P02,Staff member 2 (UIT Faculty 4),PERSON,UIT-F04,UIT,faculty
+UIT-F04-P03,Staff member 3 (UIT Faculty 4),PERSON,UIT-F04,UIT,faculty
+UIT-F04-P04,Staff member 4 (UIT Faculty 4),PERSON,UIT-F04,UIT,faculty
+UIT-F04-P05,Staff member 5 (UIT Faculty 4),PERSON,UIT-F04,UIT,faculty
+UIT-F04-P06,Staff member 6 (UIT Faculty 4),PERSON,UIT-F04,UIT,faculty
+UIT-F04-P07,Staff member 7 (UIT Faculty 4),PERSON,UIT-F04,UIT,faculty
+UIT-F04-P08,Staff member 8 (UIT Faculty 4),PERSON,UIT-F04,UIT,faculty
+UIT-F04-P09,Staff member 9 (UIT Faculty 4),PERSON,UIT-F04,UIT,faculty
+UIT-F04-P10,Staff member 10 (UIT Faculty 4),PERSON,UIT-F04,UIT,faculty
+UIT-F04-P11,Staff member 11 (UIT Faculty 4),PERSON,UIT-F04,UIT,faculty
+UIT-F04-P12,Staff member 12 (UIT Faculty 4),PERSON,UIT-F04,UIT,faculty
+UIT-F04-P13,Staff member 13 (UIT Faculty 4),PERSON,UIT-F04,UIT,faculty
+UIT-F05,UIT Faculty 5,UNIT,UIT,UIT,faculty
+UIT-F05-P01,Staff member 1 (UIT Faculty 5),PERSON,UIT-F05,UIT,faculty
+UIT-F05-P02,Staff member 2 (UIT Faculty 5),PERSON,UIT-F05,UIT,faculty
+UIT-F05-P03,Staff member 3 (UIT Faculty 5),PERSON,UIT-F05,UIT,faculty
+UIT-F05-P04,Staff member 4 (UIT Faculty 5),PERSON,UIT-F05,UIT,faculty
+UIT-F05-P05,Staff member 5 (UIT Faculty 5),PERSON,UIT-F05,UIT,faculty
+UIT-F05-P06,Staff member 6 (UIT Faculty 5),PERSON,UIT-F05,UIT,faculty
+UIT-F05-P07,Staff member 7 (UIT Faculty 5),PERSON,UIT-F05,UIT,faculty
+UIT-F05-P08,Staff member 8 (UIT Faculty 5),PERSON,UIT-F05,UIT,faculty
+UIT-F05-P09,Staff member 9 (UIT Faculty 5),PERSON,UIT-F05,UIT,faculty
+UIT-F05-P10,Staff member 10 (UIT Faculty 5),PERSON,UIT-F05,UIT,faculty
+UIT-F05-P11,Staff member 11 (UIT Faculty 5),PERSON,UIT-F05,UIT,faculty
+UIT-F06,UIT Faculty 6,UNIT,UIT,UIT,faculty
+UIT-F06-P01,Staff member 1 (UIT Faculty 6),PERSON,UIT-F06,UIT,faculty
+UIT-F06-P02,Staff member 2 (UIT Faculty 6),PERSON,UIT-F06,UIT,faculty
+UIT-F06-P03,Staff member 3 (UIT Faculty 6),PERSON,UIT-F06,UIT,faculty
+UIT-F06-P04,Staff member 4 (UIT Faculty 6),PERSON,UIT-F06,UIT,faculty
+UIT-F06-P05,Staff member 5 (UIT Faculty 6),PERSON,UIT-F06,UIT,faculty
+UIT-F06-P06,Staff member 6 (UIT Faculty 6),PERSON,UIT-F06,UIT,faculty
+UIT-F06-P07,Staff member 7 (UIT Faculty 6),PERSON,UIT-F06,UIT,faculty
+UIT-F06-P08,Staff member 8 (UIT Faculty 6),PERSON,UIT-F06,UIT,faculty
+UIT-F06-P09,Staff member 9 (UIT Faculty 6),PERSON,UIT-F06,UIT,faculty
+UIT-F06-P10,Staff member 10 (UIT Faculty 6),PERSON,UIT-F06,UIT,faculty
+UIT-F06-P11,Staff member 11 (UIT Faculty 6),PERSON,UIT-F06,UIT,faculty
+UIT-F06-P12,Staff member 12 (UIT Faculty 6),PERSON,UIT-F06,UIT,faculty
+UIT-F06-P13,Staff member 13 (UIT Faculty 6),PERSON,UIT-F06,UIT,faculty
+UIT-F06-P14,Staff member 14 (UIT Faculty 6),PERSON,UIT-F06,UIT,faculty
+UIT-F07,UIT Faculty 7,UNIT,UIT,UIT,faculty
+UIT-F07-P01,Staff member 1 (UIT Faculty 7),PERSON,UIT-F07,UIT,faculty
+UIT-F07-P02,Staff member 2 (UIT Faculty 7),PERSON,UIT-F07,UIT,faculty
+UIT-F07-P03,Staff member 3 (UIT Faculty 7),PERSON,UIT-F07,UIT,faculty
+UIT-F07-P04,Staff member 4 (UIT Faculty 7),PERSON,UIT-F07,UIT,faculty
+UIT-F07-P05,Staff member 5 (UIT Faculty 7),PERSON,UIT-F07,UIT,faculty
+UIT-F07-P06,Staff member 6 (UIT Faculty 7),PERSON,UIT-F07,UIT,faculty
+UIT-F07-P07,Staff member 7 (UIT Faculty 7),PERSON,UIT-F07,UIT,faculty
+UIT-F07-P08,Staff member 8 (UIT Faculty 7),PERSON,UIT-F07,UIT,faculty
+UIT-F07-P09,Staff member 9 (UIT Faculty 7),PERSON,UIT-F07,UIT,faculty
+UIT-F07-P10,Staff member 10 (UIT Faculty 7),PERSON,UIT-F07,UIT,faculty
+UIT-F07-P11,Staff member 11 (UIT Faculty 7),PERSON,UIT-F07,UIT,faculty
+UIT-F08,UIT Faculty 8,UNIT,UIT,UIT,faculty
+UIT-F08-P01,Staff member 1 (UIT Faculty 8),PERSON,UIT-F08,UIT,faculty
+UIT-F08-P02,Staff member 2 (UIT Faculty 8),PERSON,UIT-F08,UIT,faculty
+UIT-F08-P03,Staff member 3 (UIT Faculty 8),PERSON,UIT-F08,UIT,faculty
+UIT-F08-P04,Staff member 4 (UIT Faculty 8),PERSON,UIT-F08,UIT,faculty
+UIT-F08-P05,Staff member 5 (UIT Faculty 8),PERSON,UIT-F08,UIT,faculty
+UIT-F08-P06,Staff member 6 (UIT Faculty 8),PERSON,UIT-F08,UIT,faculty
+UIT-F08-P07,Staff member 7 (UIT Faculty 8),PERSON,UIT-F08,UIT,faculty
+UIT-F08-P08,Staff member 8 (UIT Faculty 8),PERSON,UIT-F08,UIT,faculty
+UIT-F08-P09,Staff member 9 (UIT Faculty 8),PERSON,UIT-F08,UIT,faculty
+UIT-F08-P10,Staff member 10 (UIT Faculty 8),PERSON,UIT-F08,UIT,faculty
+UIT-F08-P11,Staff member 11 (UIT Faculty 8),PERSON,UIT-F08,UIT,faculty
+UIT-F09,UIT Faculty 9,UNIT,UIT,UIT,faculty
+UIT-F09-P01,Staff member 1 (UIT Faculty 9),PERSON,UIT-F09,UIT,faculty
+UIT-F09-P02,Staff member 2 (UIT Faculty 9),PERSON,UIT-F09,UIT,faculty
+UIT-F09-P03,Staff member 3 (UIT Faculty 9),PERSON,UIT-F09,UIT,faculty
+UIT-F09-P04,Staff member 4 (UIT Faculty 9),PERSON,UIT-F09,UIT,faculty
+UIT-F09-P05,Staff member 5 (UIT Faculty 9),PERSON,UIT-F09,UIT,faculty
+UIT-F09-P06,Staff member 6 (UIT Faculty 9),PERSON,UIT-F09,UIT,faculty
+UIT-F09-P07,Staff member 7 (UIT Faculty 9),PERSON,UIT-F09,UIT,faculty
+UIT-F09-P08,Staff member 8 (UIT Faculty 9),PERSON,UIT-F09,UIT,faculty
+UIT-F09-P09,Staff member 9 (UIT Faculty 9),PERSON,UIT-F09,UIT,faculty
+UIT-F09-P10,Staff member 10 (UIT Faculty 9),PERSON,UIT-F09,UIT,faculty
+UIT-F09-P11,Staff member 11 (UIT Faculty 9),PERSON,UIT-F09,UIT,faculty
+UIT-F09-P12,Staff member 12 (UIT Faculty 9),PERSON,UIT-F09,UIT,faculty
+UIT-F09-P13,Staff member 13 (UIT Faculty 9),PERSON,UIT-F09,UIT,faculty
+UIT-EXT,External Relations Office,UNIT,UIT,UIT,office
+UIT-EXT-P01,Staff member 1 (External Relations Office),PERSON,UIT-EXT,UIT,office
+UIT-EXT-P02,Staff member 2 (External Relations Office),PERSON,UIT-EXT,UIT,office
+UIT-EXT-P03,Staff member 3 (External Relations Office),PERSON,UIT-EXT,UIT,office
+UIT-EXT-P04,Staff member 4 (External Relations Office),PERSON,UIT-EXT,UIT,office
+UIT-EXT-P05,Staff member 5 (External Relations Office),PERSON,UIT-EXT,UIT,office
+UIT-ACA,Academic Affairs Office,UNIT,UIT,UIT,office
+UIT-ACA-P01,Staff member 1 (Academic Affairs Office),PERSON,UIT-ACA,UIT,office
+UIT-ACA-P02,Staff member 2 (Academic Affairs Office),PERSON,UIT-ACA,UIT,office
+UIT-ACA-P03,Staff member 3 (Academic Affairs Office),PERSON,UIT-ACA,UIT,office
+UIT-ACA-P04,Staff member 4 (Academic Affairs Office),PERSON,UIT-ACA,UIT,office
+UIT-ACA-P05,Staff member 5 (Academic Affairs Office),PERSON,UIT-ACA,UIT,office
+UIT-ACA-P06,Staff member 6 (Academic Affairs Office),PERSON,UIT-ACA,UIT,office
+UIT-FIN,Finance Office,UNIT,UIT,UIT,office
+UIT-FIN-P01,Staff member 1 (Finance Office),PERSON,UIT-FIN,UIT,office
+UIT-FIN-P02,Staff member 2 (Finance Office),PERSON,UIT-FIN,UIT,office
+UIT-FIN-P03,Staff member 3 (Finance Office),PERSON,UIT-FIN,UIT,office
+UIT-FIN-P04,Staff member 4 (Finance Office),PERSON,UIT-FIN,UIT,office
+UIT-FIN-P05,Staff member 5 (Finance Office),PERSON,UIT-FIN,UIT,office
+AGU,An Giang University,UNIVERSITY,VNU,AGU,
+AGU-F01,AGU Faculty 1,UNIT,AGU,AGU,faculty
+AGU-F01-P01,Staff member 1 (AGU Faculty 1),PERSON,AGU-F01,AGU,faculty
+AGU-F01-P02,Staff member 2 (AGU Faculty 1),PERSON,AGU-F01,AGU,faculty
+AGU-F01-P03,Staff member 3 (AGU Faculty 1),PERSON,AGU-F01,AGU,faculty
+AGU-F01-P04,Staff member 4 (AGU Faculty 1),PERSON,AGU-F01,AGU,faculty
+AGU-F01-P05,Staff member 5 (AGU Faculty 1),PERSON,AGU-F01,AGU,faculty
+AGU-F01-P06,Staff member 6 (AGU Faculty 1),PERSON,AGU-F01,AGU,faculty
+AGU-F01-P07,Staff member 7 (AGU Faculty 1),PERSON,AGU-F01,AGU,faculty
+AGU-F01-P08,Staff member 8 (AGU Faculty 1),PERSON,AGU-F01,AGU,faculty
+AGU-F01-P09,Staff member 9 (AGU Faculty 1),PERSON,AGU-F01,AGU,faculty
+AGU-F01-P10,Staff member 10 (AGU Faculty 1),PERSON,AGU-F01,AGU,faculty
+AGU-F02,AGU Faculty 2,UNIT,AGU,AGU,faculty
+AGU-F02-P01,Staff member 1 (AGU Faculty 2),PERSON,AGU-F02,AGU,faculty
+AGU-F02-P02,Staff member 2 (AGU Faculty 2),PERSON,AGU-F02,AGU,faculty
+AGU-F02-P03,Staff member 3 (AGU Faculty 2),PERSON,AGU-F02,AGU,faculty
+AGU-F02-P04,Staff member 4 (AGU Faculty 2),PERSON,AGU-F02,AGU,faculty
+AGU-F02-P05,Staff member 5 (AGU Faculty 2),PERSON,AGU-F02,AGU,faculty
+AGU-F02-P06,Staff member 6 (AGU Faculty 2),PERSON,AGU-F02,AGU,faculty
+AGU-F02-P07,Staff member 7 (AGU Faculty 2),PERSON,AGU-F02,AGU,faculty
+AGU-F02-P08,Staff member 8 (AGU Faculty 2),PERSON,AGU-F02,AGU,faculty
+AGU-F02-P09,Staff member 9 (AGU Faculty 2),PERSON,AGU-F02,AGU,faculty
+AGU-F02-P10,Staff member 10 (AGU Faculty 2),PERSON,AGU-F02,AGU,faculty
+AGU-F02-P11,Staff member 11 (AGU Faculty 2),PERSON,AGU-F02,AGU,faculty
+AGU-F03,AGU Faculty 3,UNIT,AGU,AGU,faculty
+AGU-F03-P01,Staff member 1 (AGU Faculty 3),PERSON,AGU-F03,AGU,faculty
+AGU-F03-P02,Staff member 2 (AGU Faculty 3),PERSON,AGU-F03,AGU,faculty
+AGU-F03-P03,Staff member 3 (AGU Faculty 3),PERSON,AGU-F03,AGU,faculty
+AGU-F03-P04,Staff member 4 (AGU Faculty 3),PERSON,AGU-F03,AGU,faculty
+AGU-F03-P05,Staff member 5 (AGU Faculty 3),PERSON,AGU-F03,AGU,faculty
+AGU-F03-P06,Staff member 6 (AGU Faculty 3),PERSON,AGU-F03,AGU,faculty
+AGU-F03-P07,Staff member 7 (AGU Faculty 3),PERSON,AGU-F03,AGU,faculty
+AGU-F03-P08,Staff member 8 (AGU Faculty 3),PERSON,AGU-F03,AGU,faculty
+AGU-F03-P09,Staff member 9 (AGU Faculty 3),PERSON,AGU-F03,AGU,faculty
+AGU-F03-P10,Staff member 10 (AGU Faculty 3),PERSON,AGU-F03,AGU,faculty
+AGU-F03-P11,Staff member 11 (AGU Faculty 3),PERSON,AGU-F03,AGU,faculty
+AGU-F04,AGU Faculty 4,UNIT,AGU,AGU,faculty
+AGU-F04-P01,Staff member 1 (AGU Faculty 4),PERSON,AGU-F04,AGU,faculty
+AGU-F04-P02,Staff member 2 (AGU Faculty 4),PERSON,AGU-F04,AGU,faculty
+AGU-F04-P03,Staff member 3 (AGU Faculty 4),PERSON,AGU-F04,AGU,faculty
+AGU-F04-P04,Staff member 4 (AGU Faculty 4),PERSON,AGU-F04,AGU,faculty
+AGU-F04-P05,Staff member 5 (AGU Faculty 4),PERSON,AGU-F04,AGU,faculty
+AGU-F04-P06,Staff member 6 (AGU Faculty 4),PERSON,AGU-F04,AGU,faculty
+AGU-F04-P07,Staff member 7 (AGU Faculty 4),PERSON,AGU-F04,AGU,faculty
+AGU-F04-P08,Staff member 8 (AGU Faculty 4),PERSON,AGU-F04,AGU,faculty
+AGU-F05,AGU Faculty 5,UNIT,AGU,AGU,faculty
+AGU-F05-P01,Staff member 1 (AGU Faculty 5),PERSON,AGU-F05,AGU,faculty
+AGU-F05-P02,Staff member 2 (AGU Faculty 5),PERSON,AGU-F05,AGU,faculty
+AGU-F05-P03,Staff member 3 (AGU Faculty 5),PERSON,AGU-F05,AGU,faculty
+AGU-F05-P04,Staff member 4 (AGU Faculty 5),PERSON,AGU-F05,AGU,faculty
+AGU-F05-P05,Staff member 5 (AGU Faculty 5),PERSON,AGU-F05,AGU,faculty
+AGU-F05-P06,Staff member 6 (AGU Faculty 5),PERSON,AGU-F05,AGU,faculty
+AGU-F05-P07,Staff member 7 (AGU Faculty 5),PERSON,AGU-F05,AGU,faculty
+AGU-F05-P08,Staff member 8 (AGU Faculty 5),PERSON,AGU-F05,AGU,faculty
+AGU-F05-P09,Staff member 9 (AGU Faculty 5),PERSON,AGU-F05,AGU,faculty
+AGU-F05-P10,Staff member 10 (AGU Faculty 5),PERSON,AGU-F05,AGU,faculty
+AGU-F05-P11,Staff member 11 (AGU Faculty 5),PERSON,AGU-F05,AGU,faculty
+AGU-F05-P12,Staff member 12 (AGU Faculty 5),PERSON,AGU-F05,AGU,faculty
+AGU-F06,AGU Faculty 6,UNIT,AGU,AGU,faculty
+AGU-F06-P01,Staff member 1 (AGU Faculty 6),PERSON,AGU-F06,AGU,faculty
+AGU-F06-P02,Staff member 2 (AGU Faculty 6),PERSON,AGU-F06,AGU,faculty
+AGU-F06-P03,Staff member 3 (AGU Faculty 6),PERSON,AGU-F06,AGU,faculty
+AGU-F06-P04,Staff member 4 (AGU Faculty 6),PERSON,AGU-F06,AGU,faculty
+AGU-F06-P05,Staff member 5 (AGU Faculty 6),PERSON,AGU-F06,AGU,faculty
+AGU-F06-P06,Staff member 6 (AGU Faculty 6),PERSON,AGU-F06,AGU,faculty
+AGU-F06-P07,Staff member 7 (AGU Faculty 6),PERSON,AGU-F06,AGU,faculty
+AGU-F06-P08,Staff member 8 (AGU Faculty 6),PERSON,AGU-F06,AGU,faculty
+AGU-F06-P09,Staff member 9 (AGU Faculty 6),PERSON,AGU-F06,AGU,faculty
+AGU-F06-P10,Staff member 10 (AGU Faculty 6),PERSON,AGU-F06,AGU,faculty
+AGU-F06-P11,Staff member 11 (AGU Faculty 6),PERSON,AGU-F06,AGU,faculty
+AGU-F07,AGU Faculty 7,UNIT,AGU,AGU,faculty
+AGU-F07-P01,Staff member 1 (AGU Faculty 7),PERSON,AGU-F07,AGU,faculty
+AGU-F07-P02,Staff member 2 (AGU Faculty 7),PERSON,AGU-F07,AGU,faculty
+AGU-F07-P03,Staff member 3 (AGU Faculty 7),PERSON,AGU-F07,AGU,faculty
+AGU-F07-P04,Staff member 4 (AGU Faculty 7),PERSON,AGU-F07,AGU,faculty
+AGU-F07-P05,Staff member 5 (AGU Faculty 7),PERSON,AGU-F07,AGU,faculty
+AGU-F07-P06,Staff member 6 (AGU Faculty 7),PERSON,AGU-F07,AGU,faculty
+AGU-F07-P07,Staff member 7 (AGU Faculty 7),PERSON,AGU-F07,AGU,faculty
+AGU-F07-P08,Staff member 8 (AGU Faculty 7),PERSON,AGU-F07,AGU,faculty
+AGU-F07-P09,Staff member 9 (AGU Faculty 7),PERSON,AGU-F07,AGU,faculty
+AGU-F07-P10,Staff member 10 (AGU Faculty 7),PERSON,AGU-F07,AGU,faculty
+AGU-EXT,External Relations Office,UNIT,AGU,AGU,office
+AGU-EXT-P01,Staff member 1 (External Relations Office),PERSON,AGU-EXT,AGU,office
+AGU-EXT-P02,Staff member 2 (External Relations Office),PERSON,AGU-EXT,AGU,office
+AGU-EXT-P03,Staff member 3 (External Relations Office),PERSON,AGU-EXT,AGU,office
+AGU-EXT-P04,Staff member 4 (External Relations Office),PERSON,AGU-EXT,AGU,office
+AGU-EXT-P05,Staff member 5 (External Relations Office),PERSON,AGU-EXT,AGU,office
+AGU-ACA,Academic Affairs Office,UNIT,AGU,AGU,office
+AGU-ACA-P01,Staff member 1 (Academic Affairs Office),PERSON,AGU-ACA,AGU,office
+AGU-ACA-P02,Staff member 2 (Academic Affairs Office),PERSON,AGU-ACA,AGU,office
+AGU-ACA-P03,Staff member 3 (Academic Affairs Office),PERSON,AGU-ACA,AGU,office
+AGU-ACA-P04,Staff member 4 (Academic Affairs Office),PERSON,AGU-ACA,AGU,office
+AGU-ACA-P05,Staff member 5 (Academic Affairs Office),PERSON,AGU-ACA,AGU,office
+AGU-ACA-P06,Staff member 6 (Academic Affairs Office),PERSON,AGU-ACA,AGU,office
+AGU-FIN,Finance Office,UNIT,AGU,AGU,office
+AGU-FIN-P01,Staff member 1 (Finance Office),PERSON,AGU-FIN,AGU,office
+AGU-FIN-P02,Staff member 2 (Finance Office),PERSON,AGU-FIN,AGU,office
+AGU-FIN-P03,Staff member 3 (Finance Office),PERSON,AGU-FIN,AGU,office
+AGU-FIN-P04,Staff member 4 (Finance Office),PERSON,AGU-FIN,AGU,office
+AGU-FIN-P05,Staff member 5 (Finance Office),PERSON,AGU-FIN,AGU,office

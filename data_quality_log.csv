@@ -1,0 +1,10 @@
+﻿kpi_id,issue,detail
+A.I.1.1,duplicate_key,Key appears 2x; renamed A.I.1.1#2
+B.2.1,unit_suspicious,'International conference participations' is labelled % but looks like a count; treated as level (%).
+C.3,unit_suspicious,'Number of accredited programs' is labelled % but looks like a count; treated as level (%).
+A.I.1,gap_filled,months [9] missing; carried forward.
+A.I.1,monthly_vs_accumulated_mismatch,last monthly=35.0 vs accumulated-raw=14.0; monthly values used.
+A.I.1.1,no_2026_target,skipped (no annual target to track).
+A.I.1.1#2,no_2026_target,skipped (no annual target to track).
+A.I.2,gap_filled,"months [6, 7, 8, 9] missing; carried forward."
+A.II.4,no_2026_target,skipped (no annual target to track).

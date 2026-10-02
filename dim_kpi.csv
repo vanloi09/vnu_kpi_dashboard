@@ -1,0 +1,75 @@
+﻿kpi_id,parent_id,name_en,name_full_en,name_vn,unit,kpi_type,is_additive_flag,target_2026_iu,applies_to
+A.I.1,A.I,Newly recruited PhDs,"Training and attracting lecturers and experts holding doctoral degrees, including:",Đội ngũ tiến sĩ thu hút mới,person,cumulative,1.0,35.0,faculty
+A.I.1.1,A.I.1,Visiting professors,- Visiting professors,Giáo sư thỉnh giảng,person,cumulative,1.0,,faculty
+A.I.1.1#2,A.I.1,Innovation experts,- Innovation experts,Chuyên gia đổi mới sáng tạo,person,cumulative,1.0,,faculty
+A.I.2,A.I,Ratio of Professors/Associate Professors,Percentage of lecturers holding the academic title of Professor/Associate Professor,Tỷ lệ GS/PGS,%,level,,32.0,faculty
+A.II.1,A.II,Postgraduate/Undergraduate enrollment ratio,Percentage of postgraduate enrollment relative to regular undergraduate enrollment,Tỷ lệ tuyển sinh SĐH/ĐH,%,step,1.0,16.0,faculty
+A.II.1.1,A.II.1,PhD candidate/Postgraduate student ratio,- Ratio of doctoral students to postgraduate students,Tỷ lệ NCS/SV SĐH,%,step,1.0,20.0,faculty
+A.II.1.2,A.II.1,Ratio of PhD candidates receiving scholarships,- Percentage of doctoral students exempted from tuition fees and receiving scholarships through teaching assistant/research assistant salary mechanisms,Tỷ lệ NCS được học bổng,%,step,1.0,100.0,faculty
+A.II.2,A.II,STEM programs taught in English,STEM training programs taught in English,CTĐT STEM bằng tiếng Anh,%,level,1.0,29.0,faculty
+A.II.3,A.II,On-time graduation rate,"Percentage of students graduating on time, including:",Tỷ lệ tốt nghiệp đúng hạn,%,level,1.0,42.0,faculty
+A.II.3.1,A.II.3,Employment/further study rate after graduation,- Percentage of graduates employed or pursuing higher-level education one year after graduation,Tỷ lệ việc làm/học tiếp sau tốt nghiệp,%,level,,90.0,faculty
+A.II.4,A.II,Olympic and international awards,Number of awards/medals in international Olympiads and international science and engineering competitions,Giải thưởng Olympic và quốc tế,award,cumulative,1.0,,faculty
+A.III.1,A.III,Number of international publications,"Number of international publications, including:",Số bài báo quốc tế,paper,cumulative,1.0,520.0,faculty
+A.III.1.1,A.III.1,Number of Q1 publications,Number of Q1 publications,Số bài báo Q1,paper,cumulative,1.0,156.0,faculty
+A.III.1.2,A.III.1,Publications with international co-authors,Number of publications co-authored by international researchers,Bài báo có đồng tác giả quốc tế,paper,cumulative,1.0,260.0,faculty
+A.III.2,A.III,Number of international patents,International patents,Số sáng chế quốc tế,patent,cumulative,1.0,4.0,faculty
+A.III.2.1,A.III.2,Strategic technology products,- National strategic technology products,Sản phẩm công nghệ chiến lược,product,cumulative,1.0,1.0,faculty
+A.III.2.2,A.III.2,Transferred core technology products,- Transferable core technology products,Sản phẩm công nghệ lõi chuyển giao,product,cumulative,1.0,1.0,faculty
+A.III.3,A.III,International scientific conferences,International scientific conferences (more than 100 international partners),Hội thảo khoa học quốc tế,conference,cumulative,1.0,2.0,faculty
+A.IV.1,A.IV,Long-term international faculty/PhD candidates,International lecturers/researchers (>3 months or equivalent),GV/NCS quốc tế dài hạn,person,cumulative,1.0,42.0,all
+A.IV.2,A.IV,Internationalization of education,Internationalization of education and training activities,Quốc tế hóa đào tạo,student,cumulative,1.0,96.0,all
+A.IV.2.1,A.IV.2,International students awarded degrees,- International students awarded degrees (*),SV quốc tế được cấp bằng,student,cumulative,1.0,152.0,all
+A.IV.2.2,A.IV.2,Short-term exchange international students,- International students participating in short-term exchange programs,SV quốc tế trao đổi ngắn hạn,student,cumulative,1.0,98.0,all
+A.IV.2.2.1,A.IV.2.2,Cultural exchange international students,- Percentage of international students participating in short-term cultural exchange programs,SV quốc tế trao đổi văn hóa,%,level,1.0,50.0,all
+A.IV.2.2.2,A.IV.2.2,Academic exchange international students,"- Percentage of international students participating in academic exchange programs with credit recognition for 3 months or more, or equivalent",SV quốc tế trao đổi học thuật,%,level,1.0,50.0,all
+A.IV.2.3,A.IV.2,VNU-HCM students on exchange,- VNU-HCM students participating in exchange programs,SV ĐHQG-HCM đi trao đổi,student,cumulative,1.0,98.0,all
+A.IV.2.3.1,A.IV.2.3,Students on cultural exchange,- Percentage of VNU-HCM students participating in short-term cultural exchange programs,SV đi trao đổi văn hóa,%,level,1.0,50.0,all
+A.IV.2.3.2,A.IV.2.3,Students on academic exchange,"- Percentage of VNU-HCM students participating in academic exchange programs with credit recognition for 3 months or more, or equivalent",SV đi trao đổi học thuật,%,level,1.0,50.0,all
+A.IV.3,A.IV,Growth of international projects,Average annual growth rate in the number of new international projects,Tăng trưởng dự án quốc tế,%,level,,15.0,all
+A.IV.4,A.IV,Industry-connection seminars,Industry engagement conferences/workshops (more than 100 participating enterprises),Hội thảo kết nối doanh nghiệp,conference,cumulative,1.0,2.0,all
+A.IV.4.1,A.IV.4,Alumni/business connection activities,"- Inspirational activities by alumni/enterprises (networking, career orientation, skills development, etc.) for students of the University's faculties",Hoạt động kết nối cựu SV/doanh nghiệp,program,cumulative,1.0,40.0,all
+A.V.1.1,A.V.1,Minimum revenue growth,- MIN – Percentage increase in total revenue compared with the previous year,Tăng trưởng nguồn thu tối thiểu,%,level,1.0,7.0,office
+A.V.1.2,A.V.1,Maximum revenue growth,- MAX – Percentage increase in total revenue compared with the previous year,Tăng trưởng nguồn thu tối đa,%,level,1.0,10.0,office
+A.V.2.1,A.V.2,Increase in minimum income,- MIN – Annual percentage increase in average employee income,Tăng thu nhập tối thiểu,%,level,1.0,10.0,office
+A.V.2.2,A.V.2,Increase in maximum income,- MAX – Annual percentage increase in average employee income,Tăng thu nhập tối đa,%,level,1.0,12.0,office
+A.V.3,A.V,Average revenue growth,Average annual growth rate of total revenue at the unit level,Tăng trưởng nguồn thu bình quân,%,level,1.0,15.0,office
+B.1,B,Connecting with international scientists,"Increase the number of new reputable international scientists, particularly foreign scientists, who are closely connected with VNU-HCM through established collaborative relationships",Kết nối nhà khoa học quốc tế,person,cumulative,1.0,19.0,all
+B.2,B,Faculty/PhD candidates attending annual conferences,Faculty members/researchers holding doctoral degrees attend conferences/workshops at least once a year,GV/NCS tham dự hội nghị hằng năm,%,level,,100.0,all
+B.2.1,B.2,International conference participations,- Number of attendances at international conferences/workshops,Lượt tham dự hội nghị quốc tế,%,level,1.0,50.0,all
+B.3,B,Faculty working at international organizations,"Faculty members spend one year working at laboratories, research and development centers of corporations, enterprises, research institutes, and universities worldwide after every 5–7 years of service",GV làm việc tại tổ chức quốc tế,%,level,1.0,100.0,all
+B.4,B,PhD candidates on international research exchanges,Doctoral students must spend at least 10 months conducting research exchanges at leading research institutes and universities worldwide,NCS trao đổi nghiên cứu quốc tế,%,level,,100.0,all
+B.4.1,B.4,Exchanges with international experts,"- Percentage of exchanges with reputable international experts and scientists at universities, research centers/institutes, and foreign corporations",Trao đổi với chuyên gia quốc tế,%,level,,30.0,all
+B.5,B,Student internships at enterprises,Undergraduate students undertake internships/practical training at domestic or international enterprises and organizations for at least one semester,SV thực tập tại doanh nghiệp,%,level,1.0,100.0,all
+B.6,B,Innovation in experiential and digital curricula,Renew training programs toward experiential learning and digital technology; strengthen university–industry–community engagement to improve quality and personalize education for talented learners,Đổi mới CTĐT trải nghiệm và số,%,level,1.0,100.0,all
+B.7,B,Connecting with business leaders,Number of newly connected partners who are business leaders and managers,Kết nối lãnh đạo doanh nghiệp,person,cumulative,1.0,29.0,all
+B.8,B,Implementation of SDGs,Implementation of the SDGs at VNU-HCM,Triển khai SDGs,%,level,1.0,100.0,all
+C.1,C,International University digital transformation,"Digital Transformation Project of the International University, VNU-HCM",Chuyển đổi số ĐHQT,%,level,,10.0,all
+C.2,C,Percentage of faculty with PhD degrees,Percentage of lecturers holding doctoral degrees / total number of lecturers,Tỷ lệ giảng viên có trình độ tiến sĩ,%,level,,66.0,faculty
+C.3,C,Number of accredited programs,Number of accredited training programs according to domestic and international accreditation standards,Số CTĐT được kiểm định,%,level,1.0,100.0,faculty
+C.3.1,C.3,Undergraduate programs Accredited study programs,- Undergraduate,CTĐT đại học được kiểm định,%,level,1.0,100.0,faculty
+C.3.1.1,C.3.1,Internationally accredited undergraduate programs,- Undergraduate – international standards,CTĐT ĐH kiểm định quốc tế,%,level,1.0,50.0,faculty
+C.3.2,C.3,Accredited postgraduate programs,- Postgraduate,CTĐT SĐH được kiểm định,%,level,1.0,65.0,faculty
+C.3.2.1,C.3.2,Internationally accredited postgraduate programs,- Postgraduate – international standards,CTĐT SĐH kiểm định quốc tế,%,level,1.0,50.0,faculty
+C.4,C,New study programs with international integration,New training programs with international and inter-university integration,CTĐT mới hội nhập quốc tế,training program,cumulative,1.0,5.0,faculty
+C.4.1,C.4,Inter-institutional study programs,- Inter-university programs,CTĐT liên trường,training program,cumulative,1.0,2.0,faculty
+C.5,C,Learner satisfaction level,"Learner satisfaction rate with academic support, field study, internships, and employment services; support for student life, extracurricular activities, skills development, and learner care and development services",Mức độ hài lòng của người học,%,level,,92.0,faculty
+C.6.1,C.6,International cooperation projects,Number of international collaborative research projects,Đề tài hợp tác quốc tế,project/topic,cumulative,1.0,3.0,faculty
+C.6.2,C.6,State-level research projects,Number of state-level research projects,Đề tài nghiên cứu cấp nhà nước,project/topic,cumulative,1.0,2.0,faculty
+C.6.3,C.6,International centers of excellence,International-standard Center of Excellence: Establishment and development of an international-standard Center of Excellence in Advanced Biotechnology and Biomedical Sciences,Trung tâm nghiên cứu xuất sắc quốc tế,center,cumulative,1.0,1.0,faculty
+C.7,C,Strong interdisciplinary research groups,Strong interdisciplinary research groups,Nhóm nghiên cứu mạnh liên ngành,group,cumulative,1.0,3.0,faculty
+C.8.1,C.8,Strategic partners,"Establishing and maintaining strategic partnerships with universities, international organizations, enterprises, and local authorities",Đối tác chiến lược,international partner,cumulative,1.0,5.0,all
+C.8.1.1,C.8.1,Local strategic partners,- Local partners,Đối tác chiến lược địa phương,partner,cumulative,1.0,5.0,all
+C.8.2,C.8,International and local cooperation projects,Joint implementation of international and local projects,Dự án hợp tác quốc tế và địa phương,international project,cumulative,1.0,5.0,all
+C.8.2.1,C.8.2,Local cooperation projects per year,- Local collaborative projects/year,Dự án hợp tác địa phương/năm,project / year,cumulative,1.0,2.0,all
+C.9.1,C.9,International student/faculty exchanges,Number of international students and lecturers participating in exchange programs annually,SV/GV quốc tế trao đổi,%,level,1.0,10.0,all
+C.9.2,C.9,Internship and employment opportunities,Internship and employment opportunities for students,Cơ hội thực tập và việc làm,%,level,1.0,100.0,all
+C.9.3,C.9,Annual activities/programs/projects,"Activities, programs, and projects/year",Hoạt động/chương trình/dự án hằng năm,activity/year,cumulative,1.0,10.0,all
+C.10.1,C.10,Transformation of the innovation model,"Complete the transformation of the Center for Innovation and Technology Transfer (CITT) into a public service unit with legal status, its own seal and bank account, positioned as a satellite of the VNU-HCM Innovation Center",Chuyển đổi mô hình CITT,%,level,1.0,100.0,all
+C.10.2,C.10,Entrepreneurship & sustainable development programs,Programs and activities on Innovative Entrepreneurship & Sustainable Development Education,Chương trình khởi nghiệp & PTBV,activity / year,cumulative,1.0,24.0,all
+C.11.1,C.11,Campus green coverage ratio,Percentage of planned green-space land area that has been landscaped/greened,Tỷ lệ phủ xanh khuôn viên,%,level,,92.0,office
+C.11.2,C.11,Construction completion rate,Total completed gross floor area / Total planned gross floor area of the International University,Tỷ lệ hoàn thành sàn xây dựng,%,level,,34.0,office
+N.1,N,Tổ chức quán triệt NQ71,"Organize the dissemination and promotion of Resolution 71-NQ/TW, as well as the action plans of VNU-HCM and the International University.",Tổ chức quán triệt NQ71,%,level,0.0,100.0,office
+N.2,N,Lồng ghép mục tiêu NQ71 vào kế hoạch,Integrate the objectives of Resolution 71 into the strategic and operational plans of the respective units.,Lồng ghép mục tiêu NQ71 vào kế hoạch,%,level,0.0,100.0,office
+N.3,N,Internal quality assurance,Develop and integrate a comprehensive internal quality assurance system.,ĐBCL bên trong,%,level,0.0,10.0,office
+N.4,N,Quality accreditation of academic programs,Accredit training programs; maintain post-accreditation improvements.,Kiểm định chất lượng CTĐT,%,level,0.0,10.0,office
